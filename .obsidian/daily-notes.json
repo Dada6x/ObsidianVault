@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "template": "Dada/Tracker/daily Tracker",
+  "format": "YYYY-MM-DD",
+  "folder": "Dada/Logs"
+}
