@@ -1,6 +1,11 @@
 ---
-aliases: ["1-Year Masterplan 2025"]
-tags: [masterplan, roadmap, learning, personal-development]
+aliases:
+  - 1-Year Masterplan 2025
+tags:
+  - masterplan
+  - roadmap
+  - learning
+  - personal-development
 start-date: 2025-01-01
 end-date: 2025-12-31
 ---
