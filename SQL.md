@@ -163,3 +163,51 @@ FROM Students
 CROSS JOIN Titles;
 
 ```
+
+# DDL
+
+|Command|Purpose|
+|---|---|
+|`CREATE`|Create tables, views, databases|
+|`ALTER`|Modify existing structure|
+|`DROP`|Delete tables or databases|
+|`TRUNCATE`|Delete all data, keep structure|
+
+# DML
+| Command  | Purpose              |
+| -------- | -------------------- |
+| `SELECT` | Retrieve data        |
+| `INSERT` | Add new data         |
+| `UPDATE` | Modify existing data |
+| `DELETE` | Remove data          |
+
+# TCL 
+| Command                       | Purpose                    |
+| ----------------------------- | -------------------------- |
+| `BEGIN` / `START TRANSACTION` | Start a transaction        |
+| `COMMIT`                      | Save all changes           |
+| `ROLLBACK`                    | Undo changes               |
+| `SAVEPOINT`                   | Set a point to rollback to |
+
+# EDR 
+```
+Students
+---------
+student_id (PK)
+name
+email
+
+Courses
+--------
+course_id (PK)
+title
+credits
+
+Enrollments
+-------------
+enrollment_id (PK)
+student_id (FK)
+course_id (FK)
+enrolled_on
+
+```

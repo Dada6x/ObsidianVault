@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65218a8de6e45c80",
+  "active": "7c085717bcba212c",
   "lastOpenFiles": [
     "Logs/2025-07-06.md",
     "SQL.md",
     "Assets/Recording 20250706063500.webm",
     "Assets",
     "README.md",
-    "SQL.md",
     "Logs/2025-07-05.md",
     "Logs/2025-07-04.md",
     "Tracker/daily Tracker.md",
