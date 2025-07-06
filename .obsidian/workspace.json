@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-07-06.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-06"
+              "title": "Untitled"
             }
           }
         ]
@@ -144,6 +144,31 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7b33893f6ddd6f25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "e2e2bb283d67cb49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 3
@@ -154,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +192,10 @@
   },
   "active": "8a6d789ea66d1239",
   "lastOpenFiles": [
-    "Untitled.md",
     "Logs/2025-07-06.md",
+    "Assets/Recording 20250706063500.webm",
+    "Assets",
+    "Untitled.md",
     "README.md",
     "SQL.md",
     "Logs/2025-07-05.md",
