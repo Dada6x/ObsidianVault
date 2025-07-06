@@ -11,7 +11,8 @@ end-date: 2025-12-31
 ---
 # 🧠 Yahea’s 1‑Year Masterplan (2025)
 
-> Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits.
+> Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits [[daily Tracker]].
+
 
 ---
 
@@ -35,13 +36,13 @@ end-date: 2025-12-31
 
 | Months | Theme                     | Courses / Month                                              | Key Goals & Projects                                       | Books & Resources                                           |
 | ------ | ------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ----------------------------------------------------------- |
-| **1**  | Foundations (Blitz Intro) | 1–4 (Non‑Coder Intro, done in 1 day)<br>5 (50 alg. problems) | JS Course<br>UI/UX basics + Figma<br>HTTP, DNS, Linux CLI  | *Clean Code*<br>*How the Internet Really Works*             |
+| **1**  | Foundations (Blitz Intro) | 1–4 (Non‑Coder Intro, done in 1 day)<br>5 (50 alg. problems) | JS Course<br>UI/UX basics + Figma<br>HTTP, DNS, Linux CLI  | *Clean Code* -<br>*How the Internet Really Works*           |
 | **2**  | Foundations               | 6 (Advanced C++)<br>7 (51 alg. problems)                     | Continue JS + UI/UX<br>Start portfolio wireframes          |                                                             |
-| **3**  | Building Skills           | 8 (65 alg. problems)<br>9 (Foundations concepts)             | TryHackMe: Intro & Jr. PenTester<br>Unity 2D kickoff       | *The Pragmatic Programmer*<br>*Linux Basics for Hackers*    |
+| **3**  | Building Skills           | 8 (65 alg. problems)<br>9 (Foundations concepts)             | TryHackMe: Intro & Jr. PenTester<br>Unity 2D kickoff       | *The Pragmatic Programmer* -<br>*Linux Basics for Hackers*  |
 | **4**  | Building Skills           | 10 (OOP)<br>11 (OOP apps)                                    | Finish Unity prototype<br>Portfolio mockup                 |                                                             |
-| **5**  | Systems & Depth           | 12 (Data Structures)<br>13 (Algorithms)                      | Build “Git from Scratch” in JS<br>SIEM & logs basics       | *Deep Work*<br>*Black Hat Python* or *Blue Team FM*         |
+| **5**  | Systems & Depth           | 12 (Data Structures)<br>13 (Algorithms)                      | Build “Git from Scratch” in JS<br>SIEM & logs basics       | *Deep Work* -<br>*Black Hat Python* or *Blue Team FM*       |
 | **6**  | Systems & Depth           | 14 (Intro C#)<br>15 (SQL Databases)                          | Complete Unity game prototype                              |                                                             |
-| **7**  | Writing & Productization  | 16 (OOP C#)<br>17 (DB apps & projects)                       | Draft Git/GitHub guide<br>Cyber labs & write‑ups           | *Soft Skills*<br>*Art of Readable Code*                     |
+| **7**  | Writing & Productization  | 16 (OOP C#)<br>17 (DB apps & projects)                       | Draft Git/GitHub guide<br>Cyber labs & write‑ups           | *Soft Skills* -<br>*Art of Readable Code*                   |
 | **8**  | Writing & Productization  | 18 (DB connections)<br>19 (Real‑life project)                | Finalize portfolio UI & content                            |                                                             |
 | **9**  | Writing & Productization  | 20 (C# advanced)<br>21 (T‑SQL)                               | Polish Git guide<br>Portfolio feedback cycle               |                                                             |
 | **10** | Polishing & Stretch Goals | 22 (Adv. data structures)<br>23 (Alg. advanced)              | German B2 prep<br>Project write‑ups                        |                                                             |

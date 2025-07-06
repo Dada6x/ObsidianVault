@@ -165,6 +165,7 @@ CROSS JOIN Titles;
 ```
 
 # DDL
+Data Definition Language
 
 |Command|Purpose|
 |---|---|
@@ -174,6 +175,8 @@ CROSS JOIN Titles;
 |`TRUNCATE`|Delete all data, keep structure|
 
 # DML
+Data Manipulation Language
+
 | Command  | Purpose              |
 | -------- | -------------------- |
 | `SELECT` | Retrieve data        |
@@ -182,6 +185,8 @@ CROSS JOIN Titles;
 | `DELETE` | Remove data          |
 
 # TCL 
+Transition Control Language a
+
 | Command                       | Purpose                    |
 | ----------------------------- | -------------------------- |
 | `BEGIN` / `START TRANSACTION` | Start a transaction        |
@@ -211,3 +216,6 @@ course_id (FK)
 enrolled_on
 
 ```
+
+
+hello Hello how are you thank you
