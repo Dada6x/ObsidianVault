@@ -127,3 +127,39 @@ WHERE id IN (
 );
 
 ```
+
+# JOINS 
+
+```
+-- 1. INNER JOIN: Students with grades
+SELECT * FROM Students JOIN Grades ON Students.id = Grades.id;
+
+-- 2. LEFT JOIN: All students even without grades
+SELECT * FROM Students LEFT JOIN Grades ON Students.id = Grades.id;
+
+-- 3. RIGHT JOIN: All grades even if student missing
+SELECT * FROM Students RIGHT JOIN Grades ON Students.id = Grades.id;
+
+-- 4. Students with grade > 90
+SELECT student_name
+FROM Students
+WHERE id IN (
+  SELECT id FROM Grades WHERE student_grade > 90
+);
+
+-- 5. Book titles and publisher names
+SELECT title, pub_name
+FROM Titles
+JOIN Publishers ON Titles.pub_id = Publishers.pub_id;
+
+-- 6. All publishers and the books they published (even if none)
+SELECT pub_name, title
+FROM Publishers
+LEFT JOIN Titles ON Publishers.pub_id = Titles.pub_id;
+
+-- 7. All possible combinations of student names and book titles
+SELECT student_name, title
+FROM Students
+CROSS JOIN Titles;
+
+```
