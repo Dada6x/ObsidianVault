@@ -11,14 +11,14 @@
             "id": "8a6d789ea66d1239",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "Logs/2025-07-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "2025-07-06"
             }
           }
         ]
@@ -167,9 +167,9 @@
   "active": "8a6d789ea66d1239",
   "lastOpenFiles": [
     "Untitled.md",
+    "Logs/2025-07-06.md",
     "README.md",
     "SQL.md",
-    "Logs/2025-07-06.md",
     "Logs/2025-07-05.md",
     "Logs/2025-07-04.md",
     "Tracker/daily Tracker.md",
