@@ -11,14 +11,10 @@
             "id": "317cc71863a07aa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dawddwa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dawddwa"
+              "title": "New tab"
             }
           }
         ]
@@ -190,16 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "317cc71863a07aa4",
+  "active": "65218a8de6e45c80",
   "lastOpenFiles": [
+    "University",
+    "Random Thoughts",
+    "Assets",
+    "MasterPlan",
     "dawddwa.md",
     "FLutter.md",
-    "thisSemester.md",
-    "Tracker/daily Tracker.md",
-    "Tracker",
-    "SQL Practical.md",
-    "Random Thoughts.md",
-    "Master Plan.md",
+    "MasterPlan/thisSemester.md",
+    "Assets/Tracker/daily Tracker.md",
+    "Assets/Tracker",
+    "University/SQL Practical.md",
+    "Random Thoughts/Random Thoughts.md",
+    "MasterPlan/Master Plan.md",
     "Logs/2025-07-04.md",
     "Logs/2025-07-07.md",
     "Logs/2025-07-06.md",
@@ -224,10 +224,6 @@
     "Plans/Logs/2025-07-04.md",
     "conflict-files-obsidian-git.md",
     "Plans/Logs/2025-07-06.md",
-    "Automata.md",
-    "Random Thoughts",
-    "Plans",
-    "Templates",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",
