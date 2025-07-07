@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
+      "🔴",
+      "LiFolder",
       "LiAngry",
-      "LiUniversity",
-      "🟣",
-      "LiCloud",
-      "LiLogs"
+      "LiUniversity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Random Thoughts": "LiCloud",
+  "Logs": "LiLogs",
+  "Assets": "LiFolder",
+  "University": "LiUniversity",
+  "MasterPlan/Master Plan.md": "🔴",
+  "MasterPlan/thisSemester.md": "🟣",
+  "MasterPlan": "LiMap"
 }
