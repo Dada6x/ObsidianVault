@@ -1,5 +1,5 @@
 
-## ✅ ~={purple}Daily Habits=~
+##  ~={purple}Daily Habits=~
 - [ ]  Gym.
 - [ ]  LeetCode Proplem.
 - [ ]  German.
