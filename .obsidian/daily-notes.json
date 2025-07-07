@@ -1,6 +1,6 @@
 {
   "autorun": true,
-  "template": "Plans/Tracker/daily Tracker",
+  "template": "Tracker/daily Tracker",
   "format": "YYYY-MM-DD",
-  "folder": "Plans/Logs"
+  "folder": "Logs"
 }
