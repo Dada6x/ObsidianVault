@@ -11,10 +11,14 @@
             "id": "317cc71863a07aa4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dawddwa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dawddwa"
             }
           }
         ]
@@ -186,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "692e2ba80ed099ba",
+  "active": "317cc71863a07aa4",
   "lastOpenFiles": [
+    "dawddwa.md",
+    "FLutter.md",
     "thisSemester.md",
     "Tracker/daily Tracker.md",
     "Tracker",
@@ -200,7 +206,6 @@
     "Logs/2025-07-05.md",
     "Logs",
     "University/SQL Practical.md",
-    "FLutter.md",
     "Assets/Tracker/daily Tracker.md",
     "Plans/thisSemester.md",
     "University",
@@ -222,7 +227,6 @@
     "Automata.md",
     "Random Thoughts",
     "Plans",
-    "Templates/JUly.md",
     "Templates",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
