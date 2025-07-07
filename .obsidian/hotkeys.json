@@ -82,14 +82,6 @@
       "key": "T"
     }
   ],
-  "fast-text-color:change-text-color": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [
