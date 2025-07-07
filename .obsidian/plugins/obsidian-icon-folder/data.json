@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDisc",
-      "🔴",
-      "LiCircleArrowOutDownRight",
-      "LiAtom",
-      "LiFile"
+      "LiAngry",
+      "LiUniversity",
+      "🟣",
+      "LiCloud",
+      "LiLogs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,6 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Assets": "LiFolder"
+  }
 }
