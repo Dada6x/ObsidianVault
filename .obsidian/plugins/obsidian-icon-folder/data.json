@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAngry",
       "LiUniversity",
       "🟣",
       "LiCloud",
-      "LiLogs",
-      "LiMap"
+      "LiLogs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "Random Thoughts": "LiCloud",
   "Plans/Master Plan.md": "🔴",
   "Plans/thisSemester.md": "🟣",
-  "University": "LiUniversity"
+  "University": "LiUniversity",
+  "FLutter.md": "LiAngry"
 }
