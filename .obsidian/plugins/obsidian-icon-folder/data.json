@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🎉",
-      "LiMenuSquare",
-      "LiMap",
-      "LiAppWindowMac",
-      "LiFolder"
+      "LiDisc",
+      "🔴",
+      "LiCircleArrowOutDownRight",
+      "LiAtom",
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Logs": "LiLogs",
-  "Assets": "LiFolder",
-  "Tracker": "LiAppWindowMac",
-  "Master Plan.md": "LiMap",
-  "SQL Practical.md": "LiMenuSquare"
+  "Assets": "LiFolder"
 }
