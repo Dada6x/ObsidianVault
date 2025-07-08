@@ -13,3 +13,5 @@
 * الكتب يلي بقرأها ولخصها حتى لو من SObreif
 * Zettelkasten 
 * windows + H for voice typing 
+* البرامج يلي عم استعملها هلق 
+* 

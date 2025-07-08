@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Assets",
-  "promptDelete": false
+  "promptDelete": true,
+  "focusNewTab": true
 }

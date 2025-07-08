@@ -18,17 +18,17 @@ end-date: 2025-12-31
 
 ## ✅ Core Objectives (2025)
 - [x] **Multiplayer Chess Game** (Flutter).
-- [ ] **HTTP Server in Dart** (CodeCrafters). 
-- [ ] **Programming Advices RoadMap Courses** (24 courses over 12 months).
-- [ ] **JavaScript Course** (Maximilian).
-- [ ] **Cybersecurity Foundations** (TryHackMe path).
-- [ ] **LeetCode** in JavaScript (1–3 problems/day).
-- [ ] **UI/UX** (Books + GitHub repo study).
-- [ ] **Figma** (interface design, prototyping).  
-- [ ] **Portfolio** (designed in Figma).
-- [ ] **Unity Game 2D** (Alex Dev Course).
-- [ ] **German** (B2 target via Anki, Duolingo, YouTube).
-- [ ] **Git/GitHub Guide** (technical writing).
+- [ ] **HTTP Server in Dart** (CodeCrafters). #cyber
+- [ ] **Programming Advices RoadMap Courses** (24 courses over 12 months). #programming-advices
+- [ ] **JavaScript Course** (Maximilian). #java-script
+- [ ] **Cybersecurity Foundations** (TryHackMe path). #cyber
+- [ ] **LeetCode** in JavaScript (1–3 problems/day). #java-script
+- [ ] **UI/UX** (Books + GitHub repo study). #u-i-u-x
+- [ ] **Figma** (interface design, prototyping). #u-i-u-x
+- [ ] **Portfolio** (designed in Figma). #u-i-u-x
+- [ ] **Unity Game 2D** (Alex Dev Course). #game-dev
+- [ ] **German** (B2 target via Anki, Duolingo, YouTube). #german
+- [ ] **Git/GitHub Guide** (technical writing). #git
 - [ ] **Read Programming Books** (one per stage).
 ---
 
@@ -55,12 +55,12 @@ end-date: 2025-12-31
 
 ### 🟢 Months 1–2: Foundations  
 **Goals**  
-- [ ] **Programming Advices**  
+- [ ] **Programming Advices** 
   - Courses 1–4: Non‑Coder Intros (blitz in 1 day)  
   - Course 5: 50 Algorithm Problems  
   - Course 6: Advanced C++  
   - Course 7: 51 Algorithm Problems  
-- [ ] Complete JavaScript Course (Maximilian)  
+- [ ] Complete JavaScript Course (Maximilian) 
 - [ ] UI/UX Principles + Figma basics  
 - [ ] Cyber basics: HTTP, DNS, Linux CLI  
 
