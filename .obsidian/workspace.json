@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MasterPlan/Tags/JavaScript.md",
+                "file": "MasterPlan/Tags/UI-UX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "UI-UX"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MasterPlan/Tags/JavaScript.md",
+                "file": "MasterPlan/Tags/UI-UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JavaScript"
+              "title": "Backlinks for UI-UX"
             }
           },
           {
@@ -184,9 +184,9 @@
   },
   "active": "fb7e8108ffb7cb2a",
   "lastOpenFiles": [
+    "MasterPlan/Tags/JavaScript.md",
     "MasterPlan/Tags/Git&GitHub.md",
     "MasterPlan/Tags/CyberSecurity.md",
-    "MasterPlan/Tags/JavaScript.md",
     "MasterPlan/Tags/UI-UX.md",
     "MasterPlan/Tags/Programming Advices.md",
     "Learning/OOP.md",
