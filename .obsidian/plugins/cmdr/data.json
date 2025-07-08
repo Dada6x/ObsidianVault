@@ -1,0 +1,85 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "workspace:toggle-stacked-tabs",
+      "icon": "lucide-layers",
+      "name": "Toggle stacked tabs",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Split right",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-folder-sync",
+      "name": "Git: Commit-and-sync",
+      "mode": "any",
+      "color": "#8a5cf5"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "lucide-newspaper",
+      "name": "Export to PDF...",
+      "mode": "any"
+    },
+    {
+      "id": "window:zoom-in",
+      "icon": "lucide-zoom-in",
+      "name": "Zoom in",
+      "mode": "any"
+    },
+    {
+      "id": "window:zoom-out",
+      "icon": "lucide-zoom-out",
+      "name": "Zoom out",
+      "mode": "any"
+    },
+    {
+      "id": "window:reset-zoom",
+      "icon": "zoom-to-selection",
+      "name": "Reset zoom",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "Delete current file",
+      "mode": "any"
+    }
+  ],
+  "hide": {
+    "statusbar": [
+      "obsidian-git",
+      "obsidian-git"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

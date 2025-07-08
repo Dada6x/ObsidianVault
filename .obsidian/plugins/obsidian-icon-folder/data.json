@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBrainCircuit",
-      "🇩🇪",
-      "📱",
-      "LiHash",
-      "LiCurlyBraces"
+      "LiStickyNote",
+      "LiGoal",
+      "LiConstruction",
+      "LiBox",
+      "LiWifi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,7 @@
   "Assets": "LiFolder",
   "University": "LiUniversity",
   "MasterPlan/Master Plan.md": "🔴",
-  "MasterPlan": "LiMap",
+  "MasterPlan": "LiGoal",
   "University/Third Year/Third Year.md": {
     "iconName": "3️⃣",
     "iconColor": "#b3b3b3"
@@ -57,6 +57,10 @@
   "MasterPlan/Tags/CyberSecurity.md": "LiEarth",
   "MasterPlan/Tags/Unity_GameDev.md": "LiGamepad2",
   "MasterPlan/Tags": "LiHash",
+  "Learning": "LiBrainCircuit",
   "MasterPlan/Tags/German.md": "🇩🇪",
-  "Learning": "LiBrainCircuit"
+  "University/Third Year/subjects/Network Basics.md": "LiWifi",
+  "Learning/OOP.md": "LiBox",
+  "Learning/Design Architecture.md": "LiConstruction",
+  "Learning/Flutter.md": "LiStickyNote"
 }

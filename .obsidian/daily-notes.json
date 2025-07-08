@@ -1,5 +1,5 @@
 {
-  "autorun": true,
+  "autorun": false,
   "template": "Assets/Tracker/daily Tracker",
   "format": "YYYY-MM-DD",
   "folder": "Logs"

@@ -2,5 +2,8 @@
   "attachmentFolderPath": "Assets",
   "promptDelete": false,
   "focusNewTab": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Learning"
 }
