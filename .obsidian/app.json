@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Assets",
-  "promptDelete": true,
-  "focusNewTab": true
+  "promptDelete": false,
+  "focusNewTab": true,
+  "alwaysUpdateLinks": true
 }

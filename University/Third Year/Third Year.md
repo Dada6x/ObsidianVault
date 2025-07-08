@@ -1,3 +1,7 @@
+[[Ai Basics]]
+[[automate]]
+[[DataBases]]
+[[Project 1]]
 
 
 | ~={purple}سنة ثالثة ف1=~ | ~={blue}سنة ثالثة ف2=~ | ~={red}سنة ثانية=~ |

@@ -2,16 +2,16 @@
 aliases:
   - 1-Year Masterplan 2025
 tags:
-  - masterplan
-  - roadmap
-  - learning
-  - personal-development
+  - "#masterPlan"
 start-date: 2025-01-01
 end-date: 2025-12-31
 ---
 # 🧠 Yahea’s 1‑Year Masterplan (2025)
 
-> Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits [[daily Tracker]].
+> Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits 
+
+| [[Programming Advices]] | [[Unity_GameDev]] | [[German]] | [[Git&GitHub]] | [[JavaScript]] | [[UI-UX]] | [[CyberSecurity]] |
+| ----------------------- | ----------------- | ---------- | -------------- | -------------- | --------- | ----------------- |
 
 
 ---
@@ -19,17 +19,17 @@ end-date: 2025-12-31
 ## ✅ Core Objectives (2025)
 - [x] **Multiplayer Chess Game** (Flutter).
 - [ ] **HTTP Server in Dart** (CodeCrafters). #cyber
-- [ ] **Programming Advices RoadMap Courses** (24 courses over 12 months). #programming-advices
-- [ ] **JavaScript Course** (Maximilian). #java-script
+- [ ] **Programming Advices RoadMap Courses** (24 courses over 12 months). #Backend
+- [ ] **JavaScript Course** (Maximilian). #JavaScript
 - [ ] **Cybersecurity Foundations** (TryHackMe path). #cyber
-- [ ] **LeetCode** in JavaScript (1–3 problems/day). #java-script
-- [ ] **UI/UX** (Books + GitHub repo study). #u-i-u-x
-- [ ] **Figma** (interface design, prototyping). #u-i-u-x
-- [ ] **Portfolio** (designed in Figma). #u-i-u-x
-- [ ] **Unity Game 2D** (Alex Dev Course). #game-dev
-- [ ] **German** (B2 target via Anki, Duolingo, YouTube). #german
-- [ ] **Git/GitHub Guide** (technical writing). #git
-- [ ] **Read Programming Books** (one per stage).
+- [ ] **LeetCode** in JavaScript (1–3 problems/day). #JavaScript 
+- [ ] **UI/UX** (Books + GitHub repo study). #UI-UX
+- [ ] **Figma** (interface design, prototyping). #UI-UX 
+- [ ] **Portfolio** (designed in Figma). #UI-UX 
+- [ ] **Unity Game 2D** (Alex Dev Course). #GameDev
+- [ ] **German** (B2 target via Anki, Duolingo, YouTube). #German
+- [ ] **Git/GitHub Guide** (technical writing). #Git
+- [ ] **Read Programming Books** (one per stage). #Learning
 ---
 
 ## 📅 12‑Month Roadmap (2025)

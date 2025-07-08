@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiClipboard",
-      "LiMap",
-      "🔴",
-      "LiFolder",
-      "LiAngry"
+      "LiBrainCircuit",
+      "🇩🇪",
+      "📱",
+      "LiHash",
+      "LiCurlyBraces"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,24 @@
   "Assets": "LiFolder",
   "University": "LiUniversity",
   "MasterPlan/Master Plan.md": "🔴",
-  "MasterPlan/thisSemester.md": "🟣",
   "MasterPlan": "LiMap",
-  "University/University_Kanaban.md": "LiClipboard"
+  "University/Third Year/Third Year.md": {
+    "iconName": "3️⃣",
+    "iconColor": "#b3b3b3"
+  },
+  "University/Third Year": "LiUniversity",
+  "University/Third Year/subjects": "LiBook",
+  "University/Third Year/subjects/Ai Basics.md": "LiBrain",
+  "University/Third Year/subjects/automate.md": "LiArrowUpRightFromCircle",
+  "University/Third Year/subjects/DataBases.md": "LiDatabase",
+  "University/Third Year/subjects/Project 1.md": "LiAppWindow",
+  "MasterPlan/Tags/UI-UX.md": "LiBrush",
+  "MasterPlan/Tags/Programming Advices.md": "LiCode",
+  "MasterPlan/Tags/JavaScript.md": "LiCurlyBraces",
+  "MasterPlan/Tags/Git&GitHub.md": "LiGithub",
+  "MasterPlan/Tags/CyberSecurity.md": "LiEarth",
+  "MasterPlan/Tags/Unity_GameDev.md": "LiGamepad2",
+  "MasterPlan/Tags": "LiHash",
+  "MasterPlan/Tags/German.md": "🇩🇪",
+  "Learning": "LiBrainCircuit"
 }

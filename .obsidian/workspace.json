@@ -8,29 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc8fcb85c42aafce",
+            "id": "3a1508896313985d",
             "type": "leaf",
             "state": {
-              "type": "kanban-view",
-              "state": {
-                "file": "MasterPlan/MasterPlane_kanaban.md"
-              },
-              "icon": "kanban-square",
-              "title": "MasterPlane_kanaban"
-            }
-          },
-          {
-            "id": "0b82d36c3145d4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MasterPlan/Master Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Master Plan"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -65,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming-advices",
+                "query": "tag:#javaScript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 227.5
   },
   "right": {
     "id": "4b206174fea97ac3",
@@ -202,44 +186,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65218a8de6e45c80",
+  "active": "3a1508896313985d",
   "lastOpenFiles": [
-    "MasterPlan/Master Plan.md",
-    "MasterPlan/MasterPlane_kanaban.md",
-    "University/DataBases.md",
-    "University/University_Kanaban.md",
-    "Assets/Tracker/daily Tracker.md",
-    "Logs/2025-07-07.md",
-    "University/Project 1.md",
-    "University/Ai Basics.md",
-    "University/automate.md",
-    "Logs/2025-07-08.md",
+    "Learning/Flutter/Flutter.md",
+    "Learning/OOP.md",
     "Random Thoughts/Random Thoughts.md",
-    "dawddwa.md",
-    "University",
-    "Random Thoughts",
-    "Assets",
-    "MasterPlan",
-    "FLutter.md",
-    "MasterPlan/thisSemester.md",
-    "Assets/Tracker",
+    "Learning/Flutter",
+    "Untitled",
+    "Learning",
+    "MasterPlan/Tags/German.md",
+    "MasterPlan/Tags/German",
+    "MasterPlan/Master Plan.md",
+    "Flutter",
+    "MasterPlan/Tags/Unity_GameDev.md",
+    "MasterPlan/Tags/UI-UX.md",
+    "MasterPlan/Tags/Programming Advices.md",
+    "MasterPlan/Tags/JavaScript.md",
+    "MasterPlan/Tags/Git&GitHub.md",
+    "MasterPlan/Tags/CyberSecurity.md",
+    "University/Third Year/Third Year.md",
+    "MasterPlan/MasterPlane_kanaban.md",
+    "MasterPlan/Tags",
+    "UI/UI-UX.md",
+    "UI",
+    "Untitled.md",
+    "YYYY-MM-DD.md",
     "Logs/2025-07-04.md",
+    "Assets/Tracker/daily Tracker.md",
+    "Logs/2025-07-08.md",
+    "Logs/2025-07-07.md",
     "Logs/2025-07-06.md",
     "Logs/2025-07-05.md",
-    "Logs",
-    "Plans/thisSemester.md",
-    "University",
-    "Plans/Master Plan.md",
-    "Random Thoughts",
-    "Plans",
-    "Plans/Logs/2025-07-07.md",
-    "Assets/Tracker",
-    "Plans/Logs/2025-07-07.md",
-    "Plans/Logs/2025-07-06.md",
-    "Plans/Logs/2025-07-05.md",
-    "Plans/Logs/2025-07-04.md",
-    "Plans/Logs/2025-07-05.md",
-    "Plans/Logs/2025-07-04.md",
+    "University/Third Year/Third Year_kanaban.md",
+    "University/Third Year/subjects",
+    "University/Third Year/subjects/Project 1.md",
+    "University/Third Year/subjects/DataBases.md",
+    "University/Third Year/subjects/automate.md",
+    "University/First Year",
+    "University/Second Year",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",
