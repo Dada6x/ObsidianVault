@@ -29,14 +29,3 @@ Something Else :
 
 
 ```
-
-
-<%*
-const today = tp.date.now("MMM D")
-const file = await tp.file.find_tfile("📅 2025 Tracker")
-if (!file) return
-const content = await app.vault.read(file)
-const regex = new RegExp(`- \\[ \\] ${today}`, "g")
-const updated = content.replace(regex, `- [x] ${today}`)
-await app.vault.modify(file, updated)
-%>

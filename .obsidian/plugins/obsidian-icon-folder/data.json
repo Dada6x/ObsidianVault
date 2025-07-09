@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiStickyNote",
-      "LiGoal",
-      "LiConstruction",
-      "LiBox",
-      "LiWifi"
+      "LiDollarSign",
+      "LiUniversity",
+      "LiSchool",
+      "LiWorkflow",
+      "LiStickyNote"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,7 @@
   "University/Third Year/subjects/Network Basics.md": "LiWifi",
   "Learning/OOP.md": "LiBox",
   "Learning/Design Architecture.md": "LiConstruction",
-  "Learning/Flutter.md": "LiStickyNote"
+  "Learning/Flutter.md": "LiStickyNote",
+  "JOB": "LiDollarSign",
+  "University/Second Year": "LiUniversity"
 }

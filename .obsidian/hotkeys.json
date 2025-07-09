@@ -325,5 +325,14 @@
       ],
       "key": "L"
     }
+  ],
+  "fast-text-color:change-text-color": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }

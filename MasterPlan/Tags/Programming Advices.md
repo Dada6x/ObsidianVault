@@ -7,7 +7,7 @@
 | 1–4 (Non‑Coder Intro, done in 1 day)<br>5 (50 alg. problems) |
 | 6 (Advanced C++)<br>7 (51 alg. problems)                     |
 | 8 (65 alg. problems)<br>9 (Foundations concepts)             |
-| 10 (OOP)<br>11 (OOP apps)                                    |
+| 10 [[OOP]]<br>11 (OOP apps)                                  |
 | 12 (Data Structures)<br>13 (Algorithms)                      |
 | 14 (Intro C#)<br>15 (SQL Databases)                          |
 | 16 (OOP C#)<br>17 (DB apps & projects)                       |
