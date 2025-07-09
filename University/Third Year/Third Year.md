@@ -1,4 +1,4 @@
-[[Ai Basics]]
+[[University/Third Year/subjects/Ai Basics]]
 [[automate]]
 [[DataBases]]
 [[Project 1]]

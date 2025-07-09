@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec0bdb859b3d7cff",
+            "id": "51b1af6298641231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MasterPlan/Tags/Programming Advices.md",
+                "file": "Logs/2025-07-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Advices"
+              "title": "2025-07-10"
             }
           }
         ]
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,20 +190,31 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ec0bdb859b3d7cff",
+  "active": "51b1af6298641231",
   "lastOpenFiles": [
+    "University/Third Year/ExamsTime.md",
+    "Logs/2025-07-10.md",
+    "University/Third Year/projects/AI Basics.md",
+    "Learning/Untitled 1.md",
+    "Logs/2025-07-09.md",
+    "Learning/untitled.md",
+    "Assets/Pasted image 20250709163148.png",
+    "Assets/Pasted image 20250709163145.png",
+    "University/Third Year/subjects/Ai Basics.md",
+    "University/Third Year/projects",
+    "University/Third Year/projects/Project 1.md",
+    "University/Third Year/subjects/Network Basics.md",
+    "University/Third Year/subjects/DataBases.md",
+    "University/Third Year/subjects/automate.md",
+    "MasterPlan/Tags/Programming Advices.md",
     "University/Third Year/Third Year.md",
     "University/Second Year",
     "JOB/Job.md",
-    "University/Third Year/ExamsTime.md",
-    "MasterPlan/Tags/Programming Advices.md",
-    "Logs/2025-07-09.md",
     "MasterPlan/Master Plan.md",
     "MasterPlan/Tags/Unity_GameDev.md",
     "Learning/Flutter.md",
     "JOB",
     "Logs/2025-07-04.md",
-    "University/Third Year/subjects/DataBases.md",
     "MasterPlan/Tags/UI-UX.md",
     "MasterPlan/Tags/JavaScript.md",
     "MasterPlan/Tags/Git&GitHub.md",
@@ -214,20 +224,12 @@
     "Learning/dawd.md",
     "Learning/Design Architecture",
     "Logs/2025-07-08.md",
-    "University/Third Year/subjects/Project 1.md",
-    "University/Third Year/subjects/Network Basics.md",
-    "University/Third Year/subjects/automate.md",
-    "University/Third Year/subjects/Ai Basics.md",
-    "MasterPlan/Tags/German.md",
-    "Random Thoughts/Random Thoughts.md",
-    "Logs/2025-07-06.md",
     "Learning/Flutter",
     "Learning",
     "MasterPlan/Tags/German",
     "Flutter",
     "MasterPlan/Tags",
     "UI",
-    "University/Third Year/subjects",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",

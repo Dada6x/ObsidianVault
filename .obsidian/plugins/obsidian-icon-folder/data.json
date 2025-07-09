@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrainCog",
+      "LiFolderCode",
       "LiDollarSign",
       "LiUniversity",
-      "LiSchool",
-      "LiWorkflow",
-      "LiStickyNote"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,7 +49,6 @@
   "University/Third Year/subjects/Ai Basics.md": "LiBrain",
   "University/Third Year/subjects/automate.md": "LiArrowUpRightFromCircle",
   "University/Third Year/subjects/DataBases.md": "LiDatabase",
-  "University/Third Year/subjects/Project 1.md": "LiAppWindow",
   "MasterPlan/Tags/UI-UX.md": "LiBrush",
   "MasterPlan/Tags/Programming Advices.md": "LiCode",
   "MasterPlan/Tags/JavaScript.md": "LiCurlyBraces",
@@ -63,5 +62,8 @@
   "Learning/OOP.md": "LiBox",
   "Learning/Design Architecture.md": "LiConstruction",
   "Learning/Flutter.md": "LiStickyNote",
-  "JOB": "LiDollarSign"
+  "JOB": "LiDollarSign",
+  "University/Third Year/projects": "LiFolderCode",
+  "University/Third Year/projects/Project 1.md": "LiAppWindow",
+  "University/Third Year/projects/AI Basics.md": "LiBrainCog"
 }

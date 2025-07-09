@@ -207,14 +207,6 @@
       "key": "ArrowDown"
     }
   ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "editor:toggle-code": [
     {
       "modifiers": [
@@ -333,6 +325,15 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
