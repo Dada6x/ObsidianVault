@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Third Year/Third Year.md",
+                "file": "MasterPlan/Tags/Programming Advices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Third Year"
+              "title": "Programming Advices"
             }
           }
         ]
@@ -191,11 +191,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "65218a8de6e45c80",
+  "active": "ec0bdb859b3d7cff",
   "lastOpenFiles": [
+    "University/Third Year/Third Year.md",
     "University/Second Year",
     "JOB/Job.md",
-    "University/Third Year/Third Year.md",
     "University/Third Year/ExamsTime.md",
     "MasterPlan/Tags/Programming Advices.md",
     "Logs/2025-07-09.md",
@@ -228,7 +228,6 @@
     "MasterPlan/Tags",
     "UI",
     "University/Third Year/subjects",
-    "University/First Year",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",
