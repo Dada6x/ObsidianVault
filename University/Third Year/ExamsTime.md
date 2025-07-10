@@ -66,56 +66,112 @@
  🟥 August 28 – ~={red}Automata Exam لغات صورية .=~
 ---
 
-
-| Date      | First Subject (Lectures)          | Second Subject (Lectures) | Third Subject (Lectures)  |
-| --------- | --------------------------------- | ------------------------- | ------------------------- |
-| July 11   | Algorithms 1                      | AI Basics 1–2             | Databases 1               |
-| July 12   | Algorithms 2                      | AI Basics 3–4             | Databases 2               |
-| July 13   | Algorithms 3                      | AI Basics 5–6             | Databases 3               |
-| July 14   | Algorithms 4                      | Analysis 1–2              |                           |
-| July 15   | Algorithms 5                      | Analysis 3–4              |                           |
-| July 16   | Algorithms 6                      | Analysis 5–6              |                           |
-| July 17   | Algorithms 7                      | Analysis 7–8              |                           |
-| July 18   | Algorithms 8                      | Analysis 9                | Databases 4               |
-| July 19   | Algorithms 9                      | Databases 5               | Probability & Stats 1–2–3 |
-| July 20   | Algorithms 10                     | Databases 6               | Probability & Stats 4–5–6 |
-| July 21   | Algorithms 11                     | Operations Research 1–2–3 |                           |
-| July 22   | Algorithms 12                     | Operations Research 4–5   |                           |
-| July 23   | Operations Research 5–6           |                           |                           |
-| July 24   | Operations Research 6–7           |                           |                           |
-| July 25   | Operations Research 8–9           |                           |                           |
-| July 26   | **Review Operations Research**    |                           |                           |
-| July 27   | 🟥 **Operations Research Exam**   | **Review Databases**      |                           |
-| July 28   | *(Optional Rest / Catch-up)*      |                           |                           |
-| July 29   | *(Optional Rest / Catch-up)*      |                           |                           |
-| July 30   | 🟥 **Databases Exam**             |                           |                           |
-| July 31   | Analysis 8–9–10                   |                           |                           |
-| August 1  | Analysis 11–12–13–14              |                           |                           |
-| August 2  | **Review Analysis**               |                           |                           |
-| August 3  | 🟥 **Analysis Exam**              |                           |                           |
-| August 4  | AI Basics 7–8                     |                           |                           |
-| August 5  | AI Basics 9                       |                           |                           |
-| August 6  | Probability & Stats 7–8–9         |                           |                           |
-| August 7  | **Review AI + Worksheets**        |                           |                           |
-| August 8  | **Review Algorithms**             |                           |                           |
-| August 9  | *(Optional Buffer / Rest)*        |                           |                           |
-| August 10 | 🟥 **Algorithms Exam**            | **Review AI Basics**      |                           |
-| August 11 | 🟥 **AI Basics Exam**             |                           |                           |
-| August 12 | Probability & Stats 10–11–12–13   |                           |                           |
-| August 13 | **Review Probability & Stats**    |                           |                           |
-| August 14 | 🟥 **Probability & Stats Exam**   |                           |                           |
-| August 15 | Automata                          | Digital Communication     |                           |
-| August 16 | Automata                          | Digital Communication     |                           |
-| August 17 | Automata                          | Digital Communication     |                           |
-| August 18 | Automata                          | Digital Communication     |                           |
-| August 19 | Automata                          | Digital Communication     |                           |
-| August 20 | Automata                          | Digital Communication     |                           |
-| August 21 | Automata                          | Digital Communication     |                           |
-| August 22 | Automata                          | Digital Communication     |                           |
-| August 23 | **Review Digital Communication**  |                           |                           |
-| August 24 | 🟥 **Digital Communication Exam** |                           |                           |
-| August 25 | Automata                          |                           |                           |
-| August 26 | Automata                          |                           |                           |
-| August 27 | **Review Automata**               |                           |                           |
-| August 28 | 🟥 **Automata Exam**              |                           |                           |
-
+## 📘 Operations Research - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+🗓 Exam: 27/7
+## 📘 Databases - Checklist
+- [x] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+🗓 Exam: 30/7
+## 📘 Analysis - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+- [ ] Lecture 13
+- [ ] Lecture 14
+🗓 Exam: 3/8
+## 📘 Algorithms - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+🗓 Exam: 10/8
+## 🤖 AI Basics - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Worksheet 1
+- [ ] Worksheet 2
+- [ ] Worksheet 3
+🗓 Exam: 11/8
+## 📊 Probability & Statistics - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+- [ ] Lecture 13
+🗓 Exam: 14/8
+## 📡 Digital Communication - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+- [ ] Lecture 13
+- [ ] Lecture 14
+- [ ] Lecture 15
+🗓 Exam: 24/8
+## 🔁 Automata - Checklist
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+🗓 Exam: 28/8

@@ -1,14 +1,52 @@
-
 مادة قواعد المعطيات سنة 3 فصل تاني 
 
 
+What is an Data Base ??
+هي نظام يستخدم لتنظيم البيانات وتخزينها بطريقة مرتبة داخل جداول كل جدول يحتوي على معلومات معينة وله خصائص خاصة به وترتبط الجداول ببعضها البعض من خالل عالقات تكمن أهميتها في أنها تسهل حفظ البيانات ومعالجتها في مكان واحد وبشكل منظم وسهل الاستخدام
+
+ولتعريف قاعدة بيانات توجد ثلاث مستويات .
+
+#  1. conceptual Level مفاهيمي
+
+descibe the general skeletonization of the DB without going deep into 'how to store the Data' its focuses on **Types of Data and the ReleationShips betwwen them**
+![[Pasted image 20250710173826.png]]
+
+
+# 2. Logical Level 
+
+detailed Description of the DB contains the names of the tables , fieldsn and types of the Data , the primery Keyes the Foregin Keys , But **it dosent give a damn about how to store the shitty Data**
+
+![[Pasted image 20250710174203.png]]
+
+# 3. Physical LEvel 
+it deal with "How to Store Data on the HardDrive " so its only give its shits on the `indexs `
+ `partitioning`
+ ![[Pasted image 20250710174603.png]]
+
+
+# ~={red}ERD=~
+***stands for the entity Relatinship Diagram.***
+to make an ERD for any System we need to follow theses steps :
+- Understanding the requirements of the system
+- define the Main entities
+- define the attributes of each entite
+- define the releationship between entities
+- Drawing the shit out of it 
+## RelationShips in ERD
+### One to One
+Each person has one passport.
+#### One to Many
+One teacher teaches many students.
+### Many to Many
+Students can enroll in many courses, and each course can have many students.
 
 
 
 
 
-hello this is from the GitHub site 
-i think its working 
+
+# محاضرات العملي 
+
 ```
  -- 1. Select all students who live in London, Paris, or Berlin
 SELECT * FROM Students WHERE city IN ('London', 'Paris', 'Berlin');

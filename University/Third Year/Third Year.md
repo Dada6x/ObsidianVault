@@ -14,3 +14,21 @@ Exams  [[ExamsTime]]
 |                          | مشروع حسابات           | احتمالات           |
 |                          |                        |                    |
 
+
+Here’s a **smart workflow** you can apply right now:
+
+1. **During study days**: Focus on passing → study with paper/quick notes.
+    
+2. **After studying each concept or lecture** (only for DB, Coding, etc.):
+    
+    - Open Obsidian and summarize that one idea.
+        
+    - Use bullet points, quick language — don’t over-polish.
+        
+3. **After exams** (or on light days), review paper notes and:
+    
+    - Transfer the important stuff (marked with ✅).
+        
+    - Toss the rest.
+      
+  

@@ -14,4 +14,5 @@
 * Zettelkasten 
 * windows + H for voice typing 
 * البرامج يلي عم استعملها هلق 
-* 
+
+# make Templates for subjects Coding , conceptal and Diagram , math and physics

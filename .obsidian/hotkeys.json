@@ -336,5 +336,22 @@
       "key": "ArrowRight"
     }
   ],
-  "app:go-forward": []
+  "app:go-forward": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ]
 }
