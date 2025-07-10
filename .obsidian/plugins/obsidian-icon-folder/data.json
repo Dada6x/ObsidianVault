@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWorkflow",
       "LiBrainCog",
       "LiFolderCode",
       "LiDollarSign",
-      "LiUniversity",
-      "LiSchool"
+      "LiUniversity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,7 @@
   "JOB": "LiDollarSign",
   "University/Third Year/projects": "LiFolderCode",
   "University/Third Year/projects/Project 1.md": "LiAppWindow",
-  "University/Third Year/projects/AI Basics.md": "LiBrainCog"
+  "University/Third Year/projects/AI Basics.md": "LiBrainCog",
+  "University/Second Year": "LiUniversity",
+  "University/Second Year/Algorithms.md": "LiWorkflow"
 }
