@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "ExamsTime"
             }
+          },
+          {
+            "id": "fb0b4750e849fc29",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UI-UX",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 324.5
   },
   "right": {
     "id": "4b206174fea97ac3",
@@ -175,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,45 +201,45 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "692e2ba80ed099ba",
+  "active": "9257faad751405c9",
   "lastOpenFiles": [
+    "University/Third Year/projects/Project 1.md",
+    "University/Third Year/ExamsTime.md",
+    "Random Thoughts/Random Thoughts.md",
+    "Untitled",
+    "JOB/Job.md",
+    "Random",
+    "University/Third Year/Third Year.md",
+    "University/Third Year/subjects/Network Basics.md",
+    "University/Third Year/subjects/automate.md",
+    "University/Third Year/subjects/DataBases.md",
+    "University/Third Year/subjects/Ai Basics.md",
+    "University/Third Year/projects/AI Basics.md",
+    "University/Second Year/Algorithms 2.md",
+    "Learning/OOP.md",
+    "Projects/VsCode Extention",
+    "Learning/Flutter.md",
+    "Learning/Design Architecture.md",
+    "Learning/untitled.md",
+    "Learning/Untitled 1.md",
+    "Learning/Untitled 2.md",
+    "Projects/Game",
+    "Projects",
+    "MasterPlan/Tags/German.md",
+    "MasterPlan/Tags/CyberSecurity.md",
+    "MasterPlan/Master Plan.md",
     "Assets/Pasted image 20250709163148.png",
     "Assets/Pasted image 20250709163145.png",
-    "University/Third Year/ExamsTime.md",
-    "MasterPlan/Master Plan.md",
-    "University/Second Year/Algorithms.md",
     "University/Second Year",
     "Logs/2025-07-10.md",
-    "University/Third Year/projects/AI Basics.md",
-    "University/Third Year/projects/Project 1.md",
-    "Learning/Untitled 1.md",
     "Logs/2025-07-09.md",
-    "Learning/untitled.md",
-    "University/Third Year/subjects/Ai Basics.md",
     "University/Third Year/projects",
-    "University/Third Year/subjects/Network Basics.md",
-    "University/Third Year/subjects/DataBases.md",
-    "University/Third Year/subjects/automate.md",
     "MasterPlan/Tags/Programming Advices.md",
-    "University/Third Year/Third Year.md",
     "University/Second Year",
-    "JOB/Job.md",
     "MasterPlan/Tags/Unity_GameDev.md",
-    "Learning/Flutter.md",
     "JOB",
     "Logs/2025-07-04.md",
-    "MasterPlan/Tags/UI-UX.md",
-    "MasterPlan/Tags/JavaScript.md",
-    "MasterPlan/Tags/Git&GitHub.md",
-    "MasterPlan/Tags/CyberSecurity.md",
-    "Learning/OOP.md",
-    "Learning/Design Architecture.md",
     "Learning/Design Architecture",
-    "Learning/Flutter",
-    "Learning",
-    "MasterPlan/Tags/German",
-    "Flutter",
-    "MasterPlan/Tags",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",

@@ -8,13 +8,13 @@
       "id": "workspace:toggle-stacked-tabs",
       "icon": "lucide-layers",
       "name": "Toggle stacked tabs",
-      "mode": "any"
+      "mode": "desktop"
     },
     {
       "id": "workspace:split-vertical",
       "icon": "lucide-separator-vertical",
       "name": "Split right",
-      "mode": "any"
+      "mode": "desktop"
     }
   ],
   "leftRibbon": [],
@@ -61,7 +61,7 @@
       "id": "app:delete-file",
       "icon": "lucide-trash-2",
       "name": "Delete current file",
-      "mode": "any"
+      "mode": "desktop"
     }
   ],
   "hide": {

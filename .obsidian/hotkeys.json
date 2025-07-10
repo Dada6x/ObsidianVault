@@ -330,10 +330,11 @@
   "workspace:split-vertical": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "app:go-forward": []
 }

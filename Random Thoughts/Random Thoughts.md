@@ -1,4 +1,4 @@
-* the Four Pillers of OOP 
+* OOP 
 * Flutter supabase
 * Flutter Projects (mine ){ what i did and what i can do better }
 * Bloc State Mangment Course 

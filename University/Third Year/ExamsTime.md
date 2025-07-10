@@ -1,17 +1,19 @@
-|      | Subject (Arabic) | Subject (English)        | Lectures / Work           | Exam Date |
-| ---- | ---------------- | ------------------------ | ------------------------- | --------- |
-| done | بحوث عمليات      | Operations Research      | 9 lectures                | 🟥 27/7   |
-| done | قواعد معطيات     | Databases                | 6 lectures                | 🟥 30/7   |
-| done | تحليل            | Analysis                 | 14 lectures               | 🟥 3/8    |
-| done | خوارزميات        | Algorithms               | 12 lectures               | 🟥 10/8   |
-| done | مبادئ ذكاء       | AI Basics                | 9 lectures + 3 worksheets | 🟥 11/8   |
-| done | احتمالات واحصاء  | Probability & Statistics | 13 lectures               | 🟥 14/8   |
-| done | اتصالات رقمية    | Digital Communication    | 15 lectures               | 🟥 24/8   |
-| done | لغات صورية       | Automata                 | 12 lectures               | 🟥 28/8   |
+
+| Subject (Arabic) | Subject (English)        | Lectures / Work           | Exam Date |
+| ---------------- | ------------------------ | ------------------------- | --------- |
+| بحوث عمليات      | Operations Research      | 9 lectures                | 🟥 27/7   |
+| قواعد معطيات     | Databases                | 6 lectures                | 🟥 30/7   |
+| تحليل            | Analysis                 | 14 lectures               | 🟥 3/8    |
+| خوارزميات        | Algorithms               | 12 lectures               | 🟥 10/8   |
+| مبادئ ذكاء       | AI Basics                | 9 lectures + 3 worksheets | 🟥 11/8   |
+| احتمالات واحصاء  | Probability & Statistics | 13 lectures               | 🟥 14/8   |
+| اتصالات رقمية    | Digital Communication    | 15 lectures               | 🟥 24/8   |
+| لغات صورية       | Automata                 | 12 lectures               | 🟥 28/8   |
 
 ---
 
 # 📆 July *2025*
+- July 10 -
 - July 11  - (algo 1) - (AI Basics 1+2) (Databases1).+ EasyRent
 - July 12  - (algo 2) - (AI Basics 3+4) (Database 2). + EasyRent
 - July 13  - (algo 3) - (AI Basics 5+6) (Database 3). + EasyRent
@@ -117,13 +119,3 @@
 | August 27 | **Review Automata**               |                           |                           |
 | August 28 | 🟥 **Automata Exam**              |                           |                           |
 
-
-
-{my-arrow|#1e90ff} dadwdawd
-DAWwadawd
-AWdwad
-
-
-
-
-wddwadawd {my-arrow}
