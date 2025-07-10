@@ -116,3 +116,14 @@
 | August 26 | Automata                          |                           |                           |
 | August 27 | **Review Automata**               |                           |                           |
 | August 28 | 🟥 **Automata Exam**              |                           |                           |
+
+
+
+{my-arrow|#1e90ff} dadwdawd
+DAWwadawd
+AWdwad
+
+
+
+
+wddwadawd {my-arrow}

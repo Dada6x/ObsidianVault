@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f71da93fee2bf1d",
+        "id": "feaf392e4490460e",
         "type": "tabs",
         "children": [
           {
-            "id": "f52f70bee2d976c2",
+            "id": "9257faad751405c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,10 +190,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f52f70bee2d976c2",
+  "active": "9257faad751405c9",
   "lastOpenFiles": [
-    "MasterPlan/Master Plan.md",
+    "Assets/Pasted image 20250709163148.png",
+    "Assets/Pasted image 20250709163145.png",
     "University/Third Year/ExamsTime.md",
+    "MasterPlan/Master Plan.md",
     "University/Second Year/Algorithms.md",
     "University/Second Year",
     "Logs/2025-07-10.md",
@@ -202,8 +204,6 @@
     "Learning/Untitled 1.md",
     "Logs/2025-07-09.md",
     "Learning/untitled.md",
-    "Assets/Pasted image 20250709163148.png",
-    "Assets/Pasted image 20250709163145.png",
     "University/Third Year/subjects/Ai Basics.md",
     "University/Third Year/projects",
     "University/Third Year/subjects/Network Basics.md",
@@ -223,7 +223,6 @@
     "MasterPlan/Tags/CyberSecurity.md",
     "Learning/OOP.md",
     "Learning/Design Architecture.md",
-    "Learning/dawd.md",
     "Learning/Design Architecture",
     "Learning/Flutter",
     "Learning",
