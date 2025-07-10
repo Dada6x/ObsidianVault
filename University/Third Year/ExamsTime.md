@@ -12,13 +12,13 @@
 ---
 
 # 📆 July *2025*
-- July 11  - (algo 1) - (AI Basics 1+2) (Databases1)
-- July 12  - (algo 2) - (AI Basics 3+4) (Database 2)
-- July 13  - (algo 3) - (AI Basics 5+6) (Database 3)
-- July 14  - (algo 4) - (Analysis 1+2)
-- July 15  - (algo 5) - (Analysis 3+4)
-- July 16  - (algo 6) - (Analysis 5+6)
-- July 17  - (algo 7) - (Analysis 7+8)
+- July 11  - (algo 1) - (AI Basics 1+2) (Databases1).+ EasyRent
+- July 12  - (algo 2) - (AI Basics 3+4) (Database 2). + EasyRent
+- July 13  - (algo 3) - (AI Basics 5+6) (Database 3). + EasyRent
+- July 14  - (algo 4) - (Analysis 1+2).
+- July 15  - (algo 5) - (Analysis 3+4).
+- July 16  - (algo 6) - (Analysis 5+6).
+- July 17  - (algo 7) - (Analysis 7+8).
 - July 18  - (algo 8) - (Analysis 9) (Database 4)
 - July 19  - (algo 9) - (Database 5) - (Probability & Statistics 1+2+3)
 - July 20  - (algo 10) - (Database 6) - (Probability & Statistics 4+5+6)
