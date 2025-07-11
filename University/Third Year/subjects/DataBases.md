@@ -42,6 +42,144 @@ Students can enroll in many courses, and each course can have many students.
 
 
 
+## ~={orange}When do we need an ERD in the Market=~
+when we have an list of requirements from the Client , we anlysie it and 
+**Client is not an Tech Person so he Dosent know the Technical Requirment for his**
+here come's youre part the ~={blue}Engineer=~ to correct that , 
+
+>example : the client wanted to store the Age of the users , but the proplem is when time passes the age changes , so the engineer store the birth Date , so also made an function to know the user age 
+
+# ERD components 
+1. Entity 
+2. Relationships
+3. Attributes
+
+### ~={pink}1.Entity=~
+
+a Definable Thing that can be reduced to an Object concept like the oop thing 
+there are two types of entites 
+
+
+
+
+| ~={red}Strong=~ entity                                            | ~={blue}Weak=~ Enitity                                                                        |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| كيان مستقل يمكن تعريفه اعتمادا على خصائصه دون الحاجة الى كيان اخر | كيان لا يمكن تعريفه الا بالاعتماد على كيان اخر اي انه يحتاج الى كيان اخر قوي ليتم التعرف عليه |
+| يمثل عادة بشكل مستطيل في erd                                      | يتم الغاءه عند الغاء الكيان القوي الذي يعتمد عليه                                             |
+| Independent                                                       | Dependent on the Strong                                                                       |
+
+### ~={pink}2 .Relationships=~
+>its the connection that are made betwwen the tables in the Database and we use it in order to define the  `dataflow` in a table to other one .
+
+
+
+| Many to Many | One To many | One to One |
+| ------------ | ----------- | ---------- |
+![[Pasted image 20250711142302.png]]
+
+Erd is not an set of strict rules , its changes from one to another , for example 
+![[Pasted image 20250711143334.png]]
+
+
+### ~={yellow}Recursive RelationShips=~
+Employe/Boss
+in emplpyment mangment system we might want to specify who is the boss of each employer , you might think its better to make an enitre table for the bosses , tho haha thats not optimal for gains , jk, coz ` the boss is an employer for another boss and so on `  and second ` the boss have the exact same attributes of the employer`
+~={green}so what we should do in this situation =~
+> whe should used an Recursive realation inside the table of the emp table 
+
+| emp_id | Name  | Position   | Manger_id |
+| ------ | ----- | ---------- | --------- |
+| 1      | ahmad | boss       | null      |
+| 2      | mhd   | Ui/ux head | 1         |
+| 3      | adolf | painter    | 2         |
+### types of Releationships 
+
+| ~={red}Strong=~ Releationsho            | ~={blue}Weak=~ Releationship    |
+| --------------------------------------- | ------------------------------- |
+| ~={orange}non-Identifying=~ غير تعريفية | ~={purple}Identifying=~ تعريفية |
+| غالبا تكون بين كيانيين قويين            | غالبا بين كيان قوي وكيان ضعيف   |
+![[Pasted image 20250711145532.png]]
+
+تكون العلاقة تعريفية~={purple}Identifying=~ عندما يكون الكيان الضعيف معتمدا على الكيان القوي لتعريف نفسه  ~={red}استخدامها: =~ يتسخدم لازهار اعتمادا وجوديا Existental Dependency اي انه لا يمكن للكيان الضعيف الوجود دون الكيان القوي
+مثال 
+
+
+تكون العلاقة ~={orange}non-Identifying=~ عندما يكون بين كياننين قويين كلاهما مستقلان لا يعتمد وجود احدهما على وجود الاخر 
+تستخدم للربط او التعبير عن التفاعل بين الكيانات 
+
+
+
+### ~={pink}1.Attributes=~
+A property or characteristic of an entity توصف بها الكيانات غالبا ما تعرض في المخطط بشكل بيضاوي متصلة بالكيان الذي تنتمي اليه
+
+
+#### Types of attributes 
+
+| simple | Comosite | Derived | Multivalued  | Key   |
+| ------ | -------- | ------- | ------------ | ----- |
+| بسيطة  | مركبة    | مشتقة   | متعددة القيم | مفتاح |
+- simple : had no intentions ? ليس لها ابعاد
+- comosite: it has more than `sub attribute` that when collected it gives usefull info.
+>exampel : Location that have sub attrib.. city,street,town,gonv,....
+- Derived : we take it From an already defined attribute 
+> ex: like how we calculate the age from knowing the birth date
+- MultiValues : its an attributes that could hold more than one attribute like email ,ppl can have more than one 
+- Key : The attribute that identifies and unique entity تميز هذا الكيان عن اي كيان اخر 
+
+Drawing them in ERD
+![[Pasted image 20250711151612.png]]
+
+### ~={green}جدول كسر العلاقة Many-To-Many=~
+
+في نمذجة قواعد البيانات العلاقة mny to mny لا يمكن تمثيلها مباشرة في قواعد البيانات العلاقية 
+Relational DB 
+
+ملاحظة على تسمية جدول كسر العلاقة من الشائع تسميته باسماء الكيانين المشتركين في العلاقة متبوعا ب - ولكن عند وجود تسمية دلالية ومنطقية تعبر عن طبيعة العلاقة يفضل استخدامها لانها تجعل النموذج اكثر فهما وتعبر عن وظيفة العلاقة بدقة وتسهل فهم الداتا بيز
+
+>for example : 
+
+
+| التسمية العامة | التسمية الافضل | طبيعة العلاقة                                            |
+| -------------- | -------------- | -------------------------------------------------------- |
+| Student-Course | Enrollment     | يسجل الطالب في الدورة يوجد عدد من الدورات وعدد من الطلاب |
+| Doctor-Patient | Treatment      | نفس الشي //                                              |
+
+---
+### ~={orange}Primary and Foregin Keys=~
+
+#### ~={red}Primary=~
+uses:
+- يتسخدم كمرجع عند انشاء علاقات مع جداول اخرى
+- لا يمكن ان يكون فارغا 
+- لا يمكن ان يتكرر
+
+
+
+#### ~={blue}Forgien=~
+عمود يستخدم لربط جدولين ببعض حيث يشير الى المفتاح الاساسي لجدول اخر اي هو وسيلة الربط العلاقات بين الجداول
+## موقعه في العلاقات
+
+>في علاقة one-to-Many
+>يكون في جانب المتعدد لانه هو سوف يشير الى الone 
+
+>في علاقة many-to-many 
+>نضع المفاتاحين في جدول كسر العلاقة للكيانين المشاركان في العلاقة
+
+![[Pasted image 20250711161128.png]]
+
+### Some ملاحظات on the ERD 
+
+-  there is nothing called the `Perfect ERD` there could be more than one thats works 
+- the number of entities in the ERD is not معيار for the correction of the ERD 
+- ERD shines and strives in analysing and undestanding the requiremets when designing an System and converting them into visual shi
+- ERD is used from the Engineer in order to make the system mainanable and scalable 
+
+what comes after Setting the ERD?
+we make the visual tables and shi then start to question the clinet's requirements and see if our ERD could work or not 
+
+							End of Lecture 2
+----
+
 
 
 
