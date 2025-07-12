@@ -3,14 +3,14 @@
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCircle",
-      "LiOpenVault",
-      "LiBoxGlyph",
-      "LiWorkflow",
-      "LiBrainCog"
+      "LiFile",
+      "LiBoxes",
+      "LiCodesandbox",
+      "OcNumber16",
+      "LiCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
@@ -61,11 +61,15 @@
   "University/Third Year/subjects/Network Basics.md": "LiWifi",
   "Learning/OOP.md": "LiBox",
   "Learning/Design Architecture.md": "LiConstruction",
-  "Learning/Flutter.md": "LiStickyNote",
+  "Learning/Flutter.md": "LiFile",
   "JOB": "LiDollarSign",
   "University/Third Year/projects": "LiFolderCode",
   "University/Third Year/projects/Project 1.md": "LiAppWindow",
   "University/Third Year/projects/AI Basics.md": "LiBrainCog",
   "University/Second Year": "LiUniversity",
-  "University/Second Year/Algorithms 2.md": "LiWorkflow"
+  "University/Second Year/Algorithms 2.md": "LiWorkflow",
+  "Learning/NeetCode": "LiCodesandbox",
+  "Learning/NeetCode/NeetCode Proplems.md": "OcNumber16",
+  "Learning/Data Structures.md": "LiBoxes",
+  "Learning/my vs code Pluggins.md": "LiFile"
 }
