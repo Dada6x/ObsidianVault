@@ -21,3 +21,5 @@ what happends after he book the shi, =>  he sends Email to the Agent nigger
 - Deleting Properties 
 - Listing all His Properties
 - Accepting an Property coming from the User idk where it will be coming From 
+
+dont work with malaz  plz 

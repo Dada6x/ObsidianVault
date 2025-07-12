@@ -165,7 +165,7 @@ its the operation to change the places of the nodes with maintaing the blacnce f
 the addition and the deletion and are the exact same with the BST just require the fixes with the rotations 
   how to select the right rotation to the AVL 
 ### Insertion 
-addition leafs complexity O(h)
+addition leafs complexity O(h) 
 ### Deletion
 addition leafs complexity O(h)
 `end of Lecture 3`
@@ -173,7 +173,7 @@ addition leafs complexity O(h)
 
 ---
 ### B-Trees 
-
+![[Pasted image 20250712152447.png]]
 
 
 ---
