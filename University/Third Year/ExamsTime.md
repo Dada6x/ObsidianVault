@@ -1,3 +1,7 @@
+![[برنامج الامتحان.jpg]]
+
+![[برنامج الامتحان2.jpg]]
+
 
 | Subject (Arabic) | Subject (English)        | Lectures / Work           | Exam Date |
 | ---------------- | ------------------------ | ------------------------- | --------- |
@@ -13,9 +17,9 @@
 ---
 
 # 📆 July *2025*
-- July 10 -
-- July 11  - (algo 1) - (AI Basics 1+2) (Databases1).+ EasyRent
-- July 12  - (algo 2) - (AI Basics 3+4) (Database 2). + EasyRent
+
+- July 11  - (algo 1) - (AI Basics 1+2) (~~Databases1).~~+ EasyRent
+- July 12  - (algo 2) - (AI Basics 3+4) (~~Database 2).~~ + EasyRent
 - July 13  - (algo 3) - (AI Basics 5+6) (Database 3). + EasyRent
 - July 14  - (algo 4) - (Analysis 1+2).
 - July 15  - (algo 5) - (Analysis 3+4).
@@ -79,7 +83,7 @@
 🗓 Exam: 27/7
 ## 📘 Databases - Checklist
 - [x] Lecture 1
-- [ ] Lecture 2
+- [x] Lecture 2
 - [ ] Lecture 3
 - [ ] Lecture 4
 - [ ] Lecture 5
@@ -102,8 +106,8 @@
 - [ ] Lecture 14
 🗓 Exam: 3/8
 ## 📘 Algorithms - Checklist
-- [ ] Lecture 1
-- [ ] Lecture 2
+- [x] Lecture 1
+- [x] Lecture 2
 - [ ] Lecture 3
 - [ ] Lecture 4
 - [ ] Lecture 5

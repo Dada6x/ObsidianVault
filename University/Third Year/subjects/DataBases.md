@@ -50,9 +50,9 @@ here come's youre part the ~={blue}Engineer=~ to correct that ,
 >example : the client wanted to store the Age of the users , but the proplem is when time passes the age changes , so the engineer store the birth Date , so also made an function to know the user age 
 
 # ERD components 
-1. Entity 
-2. Relationships
-3. Attributes
+1. [[#~={pink}1.Entity=~]]
+2. [[#~={pink}2 .Relationships=~]]
+3. [[#~={pink}1.Attributes=~]]
 
 ### ~={pink}1.Entity=~
 
@@ -68,7 +68,7 @@ there are two types of entites
 | يمثل عادة بشكل مستطيل في erd                                      | يتم الغاءه عند الغاء الكيان القوي الذي يعتمد عليه                                             |
 | Independent                                                       | Dependent on the Strong                                                                       |
 
-### ~={pink}2 .Relationships=~
+### ~={pink}3.Relationships=~
 >its the connection that are made betwwen the tables in the Database and we use it in order to define the  `dataflow` in a table to other one .
 
 
