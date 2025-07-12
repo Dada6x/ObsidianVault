@@ -209,38 +209,48 @@ S : Camera , GPS
 there are Four Types of Agents in order of increasing generality 
 
 ###### 1. ~={purple}~={red}[[#Simple Reflex Agent]]  =~=~{simple|cyan} 
-###### 2. ~={yellow}[[#Reflex Agent with state/Model]]=~ {reflex|10|yellow}
-###### 3.~={orange} [[#~={blue}Goal-Based Agent=~]]=~ {goal|5|green}
-###### 4. ~={green}[[#~={red}Utility-Based Agent=~]]=~{utility|8|red}
+###### 2. ~={yellow}[[#Model Based Relfex Agents]]=~ {reflex|10|yellow}
+###### 3.~={orange} [[#~={blue}Goal-Based Agent=~]]=~ {goal|5|blue}
+###### 4. ~={green}[[#~={red}Utility-Based Agent=~]]=~ {Utility|2|Red}
 
  > All these can be turned into learning agents
 
 ---
 
-### ~={cyan}Simple Reflex Agent=~ {simple}
+### 1.~={cyan}Simple Reflex Agent=~ {simple}
 
 its basiclly based on current percept , **==No Memory==**
 
-might face proplems like infinte loops , and it cant Plan
+might face proplems like infinte loops , and it cant Plan 
 
 >Example: If dirt is seen → Suck
 
 other examples : `fly buzzing on light` , `Thermostat` ,`chess openings` and some moves (like my chess game application)
 
 ---
-### ~={yellow}Reflex Agent with state/Model =~{reflex}
-- Uses a **model** (knowledge of how the world works)
-- Has **internal state** (remembers things)
+### 2.~={yellow}Model Based Relfex Agents =~{reflex}
 
-> Example :
+- Uses a **model** (knowledge of how the world works).
+- Has **internal state** (remembers things).
 
-
----
-
-### ~={blue}Goal-Based Agent=~{goal}
-
-
+> Example : Knows that turning wheel affects direction
 
 ---
+### 3.~={blue}Goal-Based Agent=~{goal}
+- ses **goals** to decide between actions.
 
-### {utilty} ~={red}Utility-Based Agent=~
+> Example: Sees red light → knows car is stopping → should brake
+
+---
+###  4.~={red}Utility-Based Agent=~{Utility}
+
+-  Adds **preferences** to goals: Not just get to goal, but get there **better**
+- Has a **utility function**: Measures success, happiness, safety, etc.
+
+>Example: Taxi driver chooses a safe and fast route
+
+
+`simple reflex Agent`
+ 
+---
+
