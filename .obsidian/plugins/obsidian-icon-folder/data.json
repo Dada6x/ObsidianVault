@@ -30,7 +30,7 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "custom",
+    "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
   },
