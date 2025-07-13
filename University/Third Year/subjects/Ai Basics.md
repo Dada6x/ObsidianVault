@@ -107,10 +107,15 @@ This is what most modern AI systems are based on!
 
 agents and enviroment 
 PEAS
-Enviroment Types 
+Enviroment Type
 Agent Types 
+  - Simple Reflex agent
+   - states 
+  -  modal based agent 
+   - utility based agent 
+   - goal based agent
 
-
+---
 What is an Agent ? 
  an agent is anything that perceiveing his enviroment  using sensors and acts upon it 
  العميل هو اي شي بيتفاعل وبيتعامل مع البيئة تبعه بيستخدم الحساسات وامور اخرى ليعالج ويتصرف بناء على ذلك 
@@ -209,9 +214,9 @@ S : Camera , GPS
 there are Four Types of Agents in order of increasing generality 
 
 ###### 1. ~={purple}~={red}[[#Simple Reflex Agent]]  =~=~{simple|cyan} 
-###### 2. ~={yellow}[[#Model Based Relfex Agents]]=~ {reflex|10|yellow}
+###### 2. ~={yellow}[[#Model Based Relfex Agents]]=~ {reflex|8|yellow}
 ###### 3.~={orange} [[#~={blue}Goal-Based Agent=~]]=~ {goal|5|blue}
-###### 4. ~={green}[[#~={red}Utility-Based Agent=~]]=~ {Utility|2|Red}
+###### 4. ~={green}[[#~={red}Utility-Based Agent=~]]=~ {Utility|2|Red|}
 
  > All these can be turned into learning agents
 
@@ -219,7 +224,7 @@ there are Four Types of Agents in order of increasing generality
 
 ### 1.~={cyan}Simple Reflex Agent=~ {simple}
 
-its basiclly based on current percept , **==No Memory==**
+##### its basiclly based on current percept , **==No Memory==**
 
 might face proplems like infinte loops , and it cant Plan 
 
@@ -228,29 +233,91 @@ might face proplems like infinte loops , and it cant Plan
 other examples : `fly buzzing on light` , `Thermostat` ,`chess openings` and some moves (like my chess game application)
 
 ---
+## ~={pink}States :=~
+
+what is an State ? the internal state can contain information about external enviroment 
+the state depend on history of percept and action taken
+
+ => If each internal state includes all information relevant to information making, the **state space** is ==Markovian==
+
+ if State include the 
+- ~={yellow}Percepts(ادراك)=~ + ~={orange}Action Lead to it=~ (the State) => thats an ~={cyan}Perfect Recall.=~
+
+> **~={purple}Perect Information=~** = ~={cyan}Perfect Recall=~ + Full Observability +  Deterministic Actions.
+
+---
 ### 2.~={yellow}Model Based Relfex Agents =~{reflex}
 
+#### Agent with an State
 - Uses a **model** (knowledge of how the world works).
-- Has **internal state** (remembers things).
+- Has **internal state** (remembers things) **and Can Updated it**  
 
-> Example : Knows that turning wheel affects direction
+> Example : Knows that turning wheel affects direction.
+
+![[Pasted image 20250713113741.png]]
 
 ---
 ### 3.~={blue}Goal-Based Agent=~{goal}
-- ses **goals** to decide between actions.
+
+#### has an state, and enviroment , ***But its has an Goal*** 
+-  uses knowledge about a goal to guide its actions.
+- sees **goals** to decide between actions.
 
 > Example: Sees red light → knows car is stopping → should brake
 
+![[Pasted image 20250713114208.png]]
+
+
 ---
 ###  4.~={red}Utility-Based Agent=~{Utility}
+
+#### its with an state, knows the enviroment, has an Goal , still not enough.
 
 -  Adds **preferences** to goals: Not just get to goal, but get there **better**
 - Has a **utility function**: Measures success, happiness, safety, etc.
 
 >Example: Taxi driver chooses a safe and fast route
 
+>متل الحكي يلي حكيتو انا بالسمنار goal based بهمه يوصل من نقطة a لنقطة b بدون اي نقاط تانية او شروط تانية 
+ اما ال utility based ما بهمه بس كيف يوصل للgoal تاعته بل بهمه انو يوصل باحسن طريقة , اقل مسافة اعلى سرعة اقل زمن .....الخ
 
-`simple reflex Agent`
+
+![[Pasted image 20250713115449.png]]
  
 ---
+## ~={orange}Learning Agents =~
+
+Performance element is what was previousely 
+
+- Perfomance element : input sensor + output sensor 
+- Learning element : modifies performance element 
+- it has an proplem generator , that **tries to solve** the proplems + **Suggest** exploring new actions 
+- Critic : how is the agent doing.
+
+
+![[Pasted image 20250713121105.png]]
+
+---
+an complete example of how its working 
+
+Taxi driver Makes quick left turn across 3 lanes
+• Critics observe shocking language by passenger and other drivers and informs bad action 
+• Learning element tries to modify performance elements for future 
+• Problem generator suggests experiment out something called Brakes on different Road conditions 
+<=> Exploration vs. Exploitation 
+=> Learning experience can be costly in the short run 
+=> shocking language from other drivers 
+=> Less tip 
+=>Fewer passengers
+
+---
+
+## The big picture of the simple **Model-Based** agent 
+
+![[Pasted image 20250713122332.png]]
+
+
+---
+`lec 3 `
+
 

@@ -139,7 +139,7 @@ it goes three ways
 - deleting an node with one child 
 - deleting an node with two children
 ---
-# ~={purple}Balanced Tree=~s
+# ~={purple}Balanced Trees=~
 balanced trees are special condetion of the bst with additional condition called `balance factor` that reduce the **heigt** of the Tree and with that reduce the Time Complexity of the tree , there are many types of balanced Trees( AVL , Red-Black Trees, Balanced Trees)
 >All balanced Trees are Binary Trees
 

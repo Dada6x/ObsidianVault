@@ -2,6 +2,7 @@
 [[automate]]
 [[DataBases]]
 [[Project 1]]
+[[Network Basics]]
 
 Exams  [[ExamsTime]]
 

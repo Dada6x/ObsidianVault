@@ -1,4 +1,16 @@
 
+
+
+general info , 
+some preparation for the interviews 
+
+
+
+
+
+
+
+
 # tell me about yourself
 
 ### ~={red}-Why do you want this job?=~

@@ -10,8 +10,8 @@ end-date: 2025-12-31
 
 > Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits 
 
-| [[Programming Advices]] | [[Unity]] | [[German]] | [[Git&GitHub]] | [[JavaScript]] | [[UI-UX]] | [[CyberSecurity]] |
-| ----------------------- | ----------------- | ---------- | -------------- | -------------- | --------- | ----------------- |
+| [[Programming Advices]] | [[Unity]] | [[German]] | [[Git&GitHub]] | [[JavaScript]] | [[UI-UX]] | [[CyberSecurity]] | [[Git From Scratch]] |
+| ----------------------- | --------- | ---------- | -------------- | -------------- | --------- | ----------------- | -------------------- |
 
 
 ---
