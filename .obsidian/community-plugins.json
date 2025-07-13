@@ -9,5 +9,6 @@
   "select-current-line",
   "arrows-in-md",
   "symbols-prettifier",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "file-explorer-note-count"
 ]

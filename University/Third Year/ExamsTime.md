@@ -120,7 +120,7 @@
 - [ ] Lecture 12
 🗓 Exam: 10/8
 ## 🤖 AI Basics - Checklist
-- [ ] Lecture 1
+- [x] Lecture 1
 - [ ] Lecture 2
 - [ ] Lecture 3
 - [ ] Lecture 4

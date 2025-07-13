@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/NeetCode/NeetCode Proplems.md",
+                "file": "University/Third Year/ExamsTime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NeetCode Proplems"
+              "title": "ExamsTime"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/NeetCode/NeetCode Proplems.md",
+                "file": "University/Third Year/ExamsTime.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NeetCode Proplems"
+              "title": "Outline of ExamsTime"
             }
           },
           {
@@ -202,13 +202,26 @@
   },
   "active": "5fc2980decc1d31b",
   "lastOpenFiles": [
-    "Assets/Roadmap.html",
-    "Assets/Pasted image 20250712233134.png",
-    "Learning/Flutter.md",
+    "MasterPlan/Tags/Git & GitHub/Git From Scratch.md",
+    "MasterPlan/Tags/Programming Advices Course",
+    "MasterPlan/Tags/UI-UX",
+    "MasterPlan/Tags/JavaScript",
+    "MasterPlan/Tags/Git & GitHub/Git&GitHub.md",
+    "Logs/2025-07-13.md",
+    "MasterPlan/Tags/Git & GitHub",
+    "MasterPlan/Tags/German",
+    "MasterPlan/Tags/CyberSecurity",
+    "MasterPlan/Tags/Unity_GameDev",
+    "Learning/Docker.md",
     "Learning/my vs code Pluggins.md",
     "Learning/Design Architecture.md",
     "Learning/Data Structures.md",
+    "University/Second Year/Algorithms 2.md",
+    "Learning/Flutter/Flutter.md",
+    "Learning/Flutter",
     "Learning/NeetCode/NeetCode Proplems.md",
+    "Assets/Roadmap.html",
+    "Assets/Pasted image 20250712233134.png",
     "Learning/NeetCode",
     "University/Third Year/ExamsTime.md",
     "Logs/2025-07-12.md",
@@ -223,9 +236,8 @@
     "Assets/Tracker/daily Tracker.md",
     "Logs/2025-07-11.md",
     "Logs/2025-07-06.md",
-    "University/Second Year/Algorithms 2.md",
     "Assets/Pasted image 20250712152447.png",
-    "MasterPlan/Tags/Programming Advices.md",
+    "MasterPlan/Tags/Programming Advices Course/Programming Advices.md",
     "Assets/Pasted image 20250712132252.png",
     "Assets/Pasted image 20250712132231.png",
     "Assets/Pasted image 20250712131242.png",
@@ -234,20 +246,7 @@
     "Assets/برنامج الامتحان.jpg",
     "Random Thoughts/Random Thoughts.md",
     "Assets/Pasted image 20250709163148.png",
-    "MasterPlan/Tags/Unity_GameDev.md",
-    "Learning/dat7.md",
-    "MasterPlan/Tags/German.md",
-    "MasterPlan/Tags/UI-UX.md",
-    "MasterPlan/Tags/JavaScript.md",
-    "Untitled",
-    "Random",
-    "Projects/VsCode Extention",
-    "Projects/Game",
-    "Projects",
-    "University/Second Year",
-    "University/Third Year/projects",
-    "University/Second Year",
-    "JOB",
+    "MasterPlan/Tags/Unity_GameDev/Unity.md",
     "Untitled.canvas",
     "Yahea_2025_Masterplan_FIXED.canvas",
     "MasterPlanCanvas.canvas",
