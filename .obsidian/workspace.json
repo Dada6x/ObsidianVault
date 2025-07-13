@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "110672882e2f2f47",
+        "id": "b655479dad681d31",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc2980decc1d31b",
+            "id": "d47ee02fe0c8e7d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2c902184a1567ca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +31,8 @@
               "title": "2025-07-13"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +211,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5fc2980decc1d31b",
+  "active": "2c902184a1567ca0",
   "lastOpenFiles": [
+    "University/Third Year/ExamsTime.md",
+    "Logs/2025-07-13.md",
+    "Learning/pushingtTest.md",
     "Logs/2025-07-12.md",
     "Logs/2025-07-08.md",
     "Logs/2025-07-04.md",
@@ -211,8 +225,6 @@
     "Logs/2025-07-09.md",
     "Logs/2025-07-10.md",
     "Logs/2025-07-11.md",
-    "Logs/2025-07-13.md",
-    "University/Third Year/ExamsTime.md",
     "MasterPlan/Tags/Git & GitHub/Git From Scratch.md",
     "MasterPlan/Tags/Programming Advices Course",
     "MasterPlan/Tags/UI-UX",
@@ -239,7 +251,6 @@
     "University/Third Year/projects/AI Basics.md",
     "University/Third Year/subjects/automate.md",
     "University/Third Year/subjects/Network Basics.md",
-    "University/Third Year/subjects/DataBases.md",
     "Assets/Pasted image 20250712152447.png",
     "Assets/Pasted image 20250712132252.png",
     "Assets/Pasted image 20250712132231.png",
