@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "2c902184a1567ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Third Year/subjects/DataBases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DataBases"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Third Year/subjects/DataBases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DataBases"
+              "title": "Outline"
             }
           },
           {
@@ -211,10 +195,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c902184a1567ca0",
+  "active": "d47ee02fe0c8e7d3",
   "lastOpenFiles": [
-    "Learning/pushingtTest.md",
+    "Learning/Learning.md",
+    "Learning/my vs code Pluggins.md",
+    "Learning/OOP.md",
+    "Learning/NeetCode/NeetCode Proplems.md",
+    "Learning/Docker.md",
+    "University/Third Year/Third Year.md",
     "University/Third Year/subjects/DataBases.md",
+    "Learning/pushingtTest.md",
     "Logs/2025-07-13.md",
     "University/Third Year/ExamsTime.md",
     "Logs/2025-07-12.md",
@@ -235,22 +225,16 @@
     "MasterPlan/Tags/German",
     "MasterPlan/Tags/CyberSecurity",
     "MasterPlan/Tags/Unity_GameDev",
-    "Learning/Docker.md",
-    "Learning/my vs code Pluggins.md",
     "Learning/Design Architecture.md",
     "Learning/Data Structures.md",
     "University/Second Year/Algorithms 2.md",
     "Learning/Flutter/Flutter.md",
     "Learning/Flutter",
-    "Learning/NeetCode/NeetCode Proplems.md",
     "Assets/Roadmap.html",
     "Assets/Pasted image 20250712233134.png",
     "Learning/NeetCode",
     "University/Third Year/subjects/Ai Basics.md",
     "Assets/Pasted image 20250712183614.png",
-    "University/Third Year/projects/Project 1.md",
-    "University/Third Year/projects/AI Basics.md",
-    "University/Third Year/subjects/automate.md",
     "Assets/Pasted image 20250712152447.png",
     "Assets/Pasted image 20250712132252.png",
     "Assets/Pasted image 20250712132231.png",

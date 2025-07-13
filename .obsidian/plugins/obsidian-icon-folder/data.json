@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBrain",
       "FasCode",
       "LiBrush",
       "SiJavascript",
-      "LiGithub",
-      "SiGit"
+      "LiGithub"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,5 +75,6 @@
   "MasterPlan/Tags/Git & GitHub/Git&GitHub.md": "LiGithub",
   "MasterPlan/Tags/JavaScript": "SiJavascript",
   "MasterPlan/Tags/UI-UX": "LiBrush",
-  "MasterPlan/Tags/Programming Advices Course": "FasCode"
+  "MasterPlan/Tags/Programming Advices Course": "FasCode",
+  "Learning/Learning.md": "FasBrain"
 }
