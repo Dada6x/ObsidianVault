@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "SiLibreofficemath",
-      "LiWallet",
-      "LiBaggageClaim",
-      "FasFileLines"
+      "FasBoxesStacked",
+      "SiVisualstudiocode",
+      "SiReact",
+      "SiFirebase",
+      "SiSupabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -78,7 +78,7 @@
   "Learning/DataStructures/Data Structures.md": "LiBoxes",
   "Learning/Object_Orinted_Programming/OOP.md": "LiBox",
   "Learning/Object_Orinted_Programming": "LiBox",
-  "Learning/VsCode and IDE's/my vs code Pluggins.md": "SiVisualstudiocode",
+  "Learning/VsCode and IDE's/my vs code Pluggins.md": "FasBoxesStacked",
   "Learning/DataStructures": "LiBoxes",
   "Learning/CodeForces/codeForces By Abdo.md": "LiHelp",
   "Learning/Flutter Roadmap": "SiFlutter",
@@ -86,5 +86,9 @@
   "Learning/Flutter Roadmap/Useful packages.md": "LiPackage",
   "JOB/my CV.md": "FasFileLines",
   "JOB/Job.md": "LiWallet",
-  "Books": "LiBook"
+  "Books": "LiBook",
+  "Learning/Flutter Roadmap/Firebase.md": "SiFirebase",
+  "Learning/Flutter Roadmap/Supabase.md": "SiSupabase",
+  "Learning/React": "SiReact",
+  "Learning/VsCode and IDE's": "SiVisualstudiocode"
 }

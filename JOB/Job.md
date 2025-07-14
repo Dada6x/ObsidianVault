@@ -1,3 +1,12 @@
+[[my CV]]
+my portfolio  https://dada6x.github.io
+
+chess app posters and images
+mounmental habits images and shi
+EasyRent shi...
+
+
+
 
 
 

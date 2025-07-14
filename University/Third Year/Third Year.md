@@ -4,6 +4,8 @@
 [[Project 1]]
 [[Network Basics]]
 
+[[Project 1]]
+[[AI Basics Project]]
 Exams  [[ExamsTime]]
 
 | ~={purple}سنة ثالثة ف1=~ | ~={blue}سنة ثالثة ف2=~ | ~={red}سنة ثانية=~ |

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c74bd7099cebf4",
+        "id": "5b059dd5f90436f2",
         "type": "tabs",
         "children": [
           {
-            "id": "309e3bcdd60ae061",
+            "id": "7f711b8dc0ecf715",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,26 +85,52 @@
     "type": "split",
     "children": [
       {
-        "id": "0d994a3f04957a91",
+        "id": "8cfa7568020538b5",
         "type": "tabs",
-        "dimension": 55.392156862745104,
+        "dimension": 56.61764705882353,
         "children": [
+          {
+            "id": "7b33893f6ddd6f25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JOB/Job.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Job"
+            }
+          },
+          {
+            "id": "692e2ba80ed099ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "7a1990f71232a8d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Flutter Roadmap/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Flutter"
             }
           },
           {
@@ -113,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Plan.md",
+                "file": "Learning/Flutter Roadmap/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Master Plan"
+              "title": "Outgoing links from Flutter"
             }
           },
           {
@@ -135,38 +161,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "7b33893f6ddd6f25",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "692e2ba80ed099ba",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "b28fc4bb0c97eac0",
         "type": "tabs",
-        "dimension": 44.6078431372549,
+        "dimension": 43.38235294117647,
         "children": [
           {
             "id": "e2e2bb283d67cb49",
@@ -199,11 +200,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "309e3bcdd60ae061",
+  "active": "7f711b8dc0ecf715",
   "lastOpenFiles": [
+    "JOB/Protfolioes I like.md",
+    "Learning/React/React Learning RoadMap.md",
+    "Untitled.md",
+    "Learning/Untitled.md",
+    "Learning/Flutter Roadmap/Supabase.md",
+    "Logs/2025-07-14.md",
+    "Learning/React",
+    "Learning/Flutter Roadmap/Flutter.md",
+    "Learning/Flutter Roadmap/Firebase.md",
+    "Learning/Flutter Roadmap/Useful packages.md",
+    "Learning/NeetCode/NeetCode Proplems.md",
+    "Learning/Object_Orinted_Programming/OOP.md",
+    "University/Third Year/Third Year.md",
+    "JOB/Job.md",
     "Books",
     "Logs/2025-07-11.md",
-    "JOB/Job.md",
     "MasterPlan/Master Plan.md",
     "Logs/2025-07-04.md",
     "Logs/2025-07-05.md",
@@ -216,19 +230,8 @@
     "Logs/2025-07-13.md",
     "Assets/Tracker/daily Tracker.md",
     "University/Third Year/ExamsTime.md",
-    "University/Third Year/subjects/DataBases.md",
-    "University/Third Year/subjects/automate.md",
-    "Learning/VsCode and IDE's/my vs code Pluggins.md",
-    "JOB/my CV.md",
-    "Learning/Math/liner algebra.md",
     "Learning/Math",
     "Assets/Yahea_Dada.pdf",
-    "Learning/Learning.md",
-    "University/Third Year/Third Year.md",
-    "University/Third Year/subjects/Network Basics.md",
-    "Learning/Flutter Roadmap/Flutter.md",
-    "Learning/Flutter Roadmap/Useful packages.md",
-    "Random Thoughts/Random Thoughts.md",
     "Learning/VsCode and IDE's",
     "Learning/Object_Orinted_Programming",
     "Learning/DataStructures",
@@ -242,7 +245,6 @@
     "Assets/Pasted image 20250713114208.png",
     "Assets/Pasted image 20250713113741.png",
     "Assets/Pasted image 20250713113723.png",
-    "MasterPlan/Tags/Programming Advices Course",
     "Assets/Pasted image 20250712233134.png",
     "Assets/Pasted image 20250712183614.png",
     "Assets/Pasted image 20250712152447.png",
