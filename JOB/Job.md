@@ -1,6 +1,27 @@
 [[my CV]]
 my portfolio  https://dada6x.github.io
 
+test ats https://www.hyrd.dev
+
+
+
+use nice font like arial ,
+dont use images and colors 
+limited in one page
+dont use small font sizes
+
+
+there an recurteir and engineer gonna see the resume 
+recurters are not tech people , they gonna look at the place , the age , the technologies u use to match the company 
+
+the enginners ar gonne put focus on the section you made like summery 
+they gonna look for speciliazing they dont care if you know alot of things 
+
+n they 
+
+resume video https://www.youtube.com/watch?v=fD0E57QYSPk
+also make it works with ATS so write it in LATEX
+
 chess app posters and images
 mounmental habits images and shi
 EasyRent shi...

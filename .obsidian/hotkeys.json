@@ -353,5 +353,23 @@
       ],
       "key": "Z"
     }
+  ],
+  "obsidian-asciimath:insert-asciimath-block": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-asciimath:asciimath-insert-symbol": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

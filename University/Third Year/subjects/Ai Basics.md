@@ -2,13 +2,13 @@
 
 
 
-| lec1 | [[#Introduction to Artificial intelligence .]] |
-| ---- | ---------------------------------------------- |
-| lec2 | [[#INTELLIGENT AGENTS]]                        |
-| lec3 |                                                |
-| lec4 |                                                |
-| lec5 |                                                |
-| lec6 |                                                |
+| lec1 | [[#Introduction to Artificial intelligence .]]    |
+| ---- | ------------------------------------------------- |
+| lec2 | [[#INTELLIGENT AGENTS]]                           |
+| lec3 | [[#Artificial Intelligence Methods of Inference]] |
+| lec4 | [[#Knowledge Representation]]                     |
+| lec5 |                                                   |
+| lec6 |                                                   |
 
 ---
 `lec 1`
@@ -320,4 +320,164 @@ Taxi driver Makes quick left turn across 3 lanes
 ---
 `lec 3 `
 
+
+# Artificial Intelligence Methods of Inference
+
+## Trees and Graphs 
+---
+you can see all info related to **Trees** Here [[Trees]]
+you can see all info related to **Graphs** Here [[Graphs]]
+
+### so what we need an Trees in AI?
+
+trees are useful in something called **~={pink}Decisions Making Trees=~**.
+
+- trees and lattices are useful for classifying Objects into hierarchical thing idk 
+- also an Great representation of Knowledge .
+
+## ~={blue}Binary Decision Trees=~.
+
+- Every Question must take us down one level in the Tree
+- all Leaves will be Answers 
+- all internal nodes are Questions 
+- There will be a maximum of 2 N answers for N questions. (coz its binary bruh)
+- Decision trees can be translated into production rules.
+
+![[Pasted image 20250714172728.png]]
+
+
+## ~={blue}And-OR Trees and Goals=~ .
+
+- AND-OR trees also use backward chaining.
+- AND-OR-NOT lattices use logic gates to describe problems.
+
+>• 1990s, PROLOG was used for commercial applications in business and industry. 
+>• PROLOG uses backward chaining to divide problems into smaller problems and then solves them.
+
+
+---
+# ~={green}Types of Logic =~
+
+## ~={red} Deduction=~ ( الاستنتاج )
+
+Starting from an general rules (~={yellow}Premisies=~) to reach an specofoc certin conclusion 
+
+ >**Example**  Socrates Mortallity 
+>humans are mortal , socretes is human => socrates is mortal 
+
+**general -> specific** 
+
+---
+## ~={blue} Induction=~ ( الاستقراء )
+
+oppesite of the deduction its starting from an Observation or example and going into an general conclusion ( not all times its gonna guaranteed to be true)
+
+>we seen 100 white swans => we assume that all swans are white (unless one day we see an black one)
+
+**specifci -> general** 
+
+---
+## ~={yellow}Intuition=~( الحدس)
+
+giving an rule without reasoning or proven theory
+
+---
+## ~={orange}Heuristics=~ ( الاستدلال الارشادي)
+this is based on experiences and past shi 
+
+---
+## Generate and Test(التجربة والاختبار)
+trying different things until something work 
+
+---
+## ~={purple}Analogy=~ (الاستعارة/القياس)
+based on something similar to another things
+**Finding similiarites between shis** 
+
+---
+
+# Syllogisms(القياسات المنطقية)vs. Rules
+
+- Syllogism 
+– All basketball players are tall. 
+– Jason is a basketball player. 
+– Jason is tall.
+
+- Rules
+  IF
+	All basketball players are tall and Jason is a basketball player 
+THEN 
+	Jason is tall.
+
+---
+![[Pasted image 20250714175050.png]]
+
+---
+# Direct Reasoning 
+## ~={red}[[Modus Ponens]]=~
+It’s a basic rule of reasoning that helps us figure out something **must be true** based on a **logical if-then statement**.
+
+if p then q  (p -> q).
+
+---
+
+## Truth Table Modus Ponens
+
+|P|Q|P→QP \rightarrow Q|(P→Q)∧P(P \rightarrow Q) \land P|[(P→Q)∧P]→Q[(P \rightarrow Q) \land P] \rightarrow Q|
+|---|---|---|---|---|
+|T|T|T|T|T|
+|T|F|F|F|T|
+|F|T|T|F|T|
+|F|F|T|F|T|
+
+---
+
+##  Rules of Inference
+
+![[Pasted image 20250714192957.png]]
+
+![[Pasted image 20250714193006.png]] 
+
+---
+
+## Shallow and Casual Reasoning 
+
+idk what the nga prof meant with this so im adding the whole thing 
+![[Pasted image 20250714194024.png]]
+
+---
+
+## Chaining 
+
+Chain – a group of multiple inferences that connect a problem with its solution
+
+
+|                     ~={blue}Forward chaining=~                      |                             ~={red}Backward chaining=~                             |
+|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| A chain that is searched / traversed from a problem to its solution | A chain traversed from a hypothesis back to the facts that support the hypothesis. |
+
+
+### ~={yellow}Some Characteristics of Forward and Backward Chaining=~
+
+
+
+|   ~={blue}Forward chaining=~    |              ~={red}Backward chaining=~              |
+| :-----------------------------: | :--------------------------------------------------: |
+|        Planing, Control         |                      Diagnosis                       |
+|             Future              |                         Past                         |
+|          Data Drivien           |                     Goal Driven                      |
+| works forward to find solutions | works backwards to find facts support the hypothesis |
+|          Breadth-first          |                 Depth-First search                   |
+|                                 |                                                      |
+|                                 |                                                      |
+|                                 |                                                      |
+
+
+---
+`lec 4`
+
+
+# Knowledge Representation
+
+what is knowledge 
 
