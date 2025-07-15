@@ -183,7 +183,7 @@ we make the visual tables and shi then start to question the clinet's requiremen
 
 
 
-# محاضرات العملي 
+# Practical Lectures 
 
 ```
  -- 1. Select all students who live in London, Paris, or Berlin
@@ -350,7 +350,7 @@ CROSS JOIN Titles;
 ```
 
 # DDL
-Data Definition Language
+Data Definition Language تصميم وتعديل قاعدة البيانات 
 
 |Command|Purpose|
 |---|---|
@@ -359,8 +359,18 @@ Data Definition Language
 |`DROP`|Delete tables or databases|
 |`TRUNCATE`|Delete all data, keep structure|
 
+---
+# DCL
+Data Control Language تصميم وتعديل قاعدة البيانات 
+
+| Command  | Purpose               |
+| -------- | --------------------- |
+| `Grant`  | to give an Premisson  |
+| `Revoke` | to stop an premission |
+
+---
 # DML
-Data Manipulation Language
+Data Manipulation Languagادارة ومعالجة البيانات
 
 | Command  | Purpose              |
 | -------- | -------------------- |
@@ -369,8 +379,10 @@ Data Manipulation Language
 | `UPDATE` | Modify existing data |
 | `DELETE` | Remove data          |
 
+---
 # TCL 
 Transition Control Language a
+اوامر تستخدم لضمان تنفيذ مجموعة استعلامات والتراجع عنها في حال حدوث خطأ version controll like
 
 | Command                       | Purpose                    |
 | ----------------------------- | -------------------------- |
@@ -379,27 +391,16 @@ Transition Control Language a
 | `ROLLBACK`                    | Undo changes               |
 | `SAVEPOINT`                   | Set a point to rollback to |
 
-# EDR 
-```
-Students
----------
-student_id (PK)
-name
-email
+---
+## Types of ERD 
 
-Courses
---------
-course_id (PK)
-title
-credits
+## UML
 
-Enrollments
--------------
-enrollment_id (PK)
-student_id (FK)
-course_id (FK)
-enrolled_on
+---
+## OTOM
 
-```
+---
+## CHEN
 
-
+---
+SQL: Structured Querey Language 

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMap",
-      "LiBriefcaseBusiness",
-      "SiMusicbrainz",
-      "FasPaintbrush",
-      "LiFigma"
+      "LiMeh",
+      "LiBookmark",
+      "LiHeart",
+      "FabJava",
+      "LiBinary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -95,5 +95,12 @@
   "Learning/DataStructures/Trees.md": "FasNetworkWired",
   "Learning/Math": "SiLibreofficemath",
   "MasterPlan/Tags/UI-UX/Figma.md": "LiFigma",
-  "MasterPlan/Tags/UI-UX/UI-UX.md": "FasPaintbrush"
+  "MasterPlan/Tags/UI-UX/UI-UX.md": "FasPaintbrush",
+  "University/Third Year/subjects/Computer Architecture 2.md": "LiComputer",
+  "University/Second Year/Assembly.md": "LiBinary",
+  "University/Second Year/Computer Architecture 1.md": "LiComputer",
+  "University/Second Year/Java.md": "FabJava",
+  "University/University.md": "LiHeart",
+  "useful shi": "LiBookmark",
+  "Personal": "LiMeh"
 }

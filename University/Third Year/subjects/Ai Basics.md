@@ -103,7 +103,7 @@ This is what most modern AI systems are based on!
 ---
 `lec 2`
 
-# INTELLIGENT AGENTS
+# INTELLIGENT AGENTS :RaBrainFreeze:
 
 agents and enviroment 
 PEAS
@@ -170,7 +170,7 @@ S : Camera , GPS
 .... and other examples 
 
 ---
-### ~={orange}Enviroment Types =~
+### ~={orange}Enviroment Types :LiLeaf:=~
 
 - Fully observable != partially observable
 - Deterministic(محددة) != stochastic(عشوائية)
@@ -447,7 +447,7 @@ idk what the nga prof meant with this so im adding the whole thing
 
 ---
 
-## Chaining 
+## ~={pink}Chaining =~
 
 Chain – a group of multiple inferences that connect a problem with its solution
 
@@ -456,10 +456,8 @@ Chain – a group of multiple inferences that connect a problem with its solutio
 |:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
 | A chain that is searched / traversed from a problem to its solution | A chain traversed from a hypothesis back to the facts that support the hypothesis. |
 
-
+---
 ### ~={yellow}Some Characteristics of Forward and Backward Chaining=~
-
-
 
 |   ~={blue}Forward chaining=~    |              ~={red}Backward chaining=~              |
 | :-----------------------------: | :--------------------------------------------------: |
@@ -472,12 +470,12 @@ Chain – a group of multiple inferences that connect a problem with its solutio
 |                                 |                                                      |
 |                                 |                                                      |
 
-
 ---
 `lec 4`
 
+# Knowledge Representation :LiBrain:
 
-# Knowledge Representation
-
-what is knowledge 
+what is knowledge? => idk 
+end of lec 
+absolute cinema dont you think 
 
