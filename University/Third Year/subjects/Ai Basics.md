@@ -475,7 +475,56 @@ Chain – a group of multiple inferences that connect a problem with its solutio
 
 # Knowledge Representation :LiBrain:
 
-what is knowledge? => idk 
-end of lec 
-absolute cinema dont you think 
+What is Knowledge 
 
+
+### what is knowledge representation ?
+ encoding the information about the world into an formats that AI system can understands then utilize to solve an complex task and this enable the machine to reason , learn and make decisions 
+ 
+yes AI systems operate on data **however** 
+Raw data dose not lead to intelligence the ai must trasnform that data into structeral knowledge 
+so how  ? 
+=> Knowledge representation achives this by defining formats and methods for orginizing info with clear representation
+
+---
+## The Synergy of Knowledge and Intelligence
+
+You must understand that **knowledge and intelligence are not separate**:
+
+- **Knowledge** is the _what_: facts, rules, concepts.
+- **Intelligence** is the _how_: applying those facts to solve problems.
+- **Interdependence** (الترابط) : static knowledge become obsulote without adaptive intelligence , and intellingece without knowledge cannot reason or learn 
+- **Synergy** : Effective ai systems merge robust knowledge basess with reasoning algorithms 
+	  the what <=> the why 
+>chatgpt combines the vast language data (knowledge ) with transformers models (intelligence) in order to generate cobhrent text
+
+---
+## ~={pink}Types Of Agents=~ 
+
+there are Four Types of Agents in order of increasing generality 
+
+###### 1. ~={purple}~={red}Logic-Based Systems  =~=~{logic|red} 
+###### 2. ~={yellow}Structured Representations=~ {structured|8|yellow}
+###### 3.~={orange} ~={blue}Probabilistic Model=~=~ {prop|5|blue}
+###### 4. ~={green}~={green}Distributed Representations.=~=~ {dis|2|green}
+
+ > All these can be turned into learning agents
+
+---
+
+### 1.~={red}Logic-Based Systems  =~ {logic}
+
+
+---
+### 2.~={yellow}Structured Representations =~{structured}
+
+
+---
+### 3.~={blue}Probabilistic Model=~{prop}
+
+
+
+---
+###  4.~={green}Distributed Representations.=~{dis}
+
+---

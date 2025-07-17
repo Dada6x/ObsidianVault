@@ -9,7 +9,7 @@
 * شو المواد يلي اخدتها بالجامعة وشو عملت فيها لهلق 
 * حتى unity لما تتعلم عليه اكتب notes وbest practices عشان بس ارجع ما انساهم 
 * ~~vs Code Plugins~~ 
-* Flutter Packages the usefull ones.
+* ~~Flutter Packages the usefull ones.~~
 * الكتب يلي بقرأها ولخصها حتى لو من SObreif
 * Zettelkasten 
 * windows + H for voice typing 

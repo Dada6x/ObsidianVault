@@ -5,8 +5,13 @@
 
 ## i like
 - https://about.jimmy-blog.top
-- 
+- https://www.devportfoliotemplates.com/portfolio-templates/full-stack-developer-light
 
+
+
+this is for abdo's 
+https://www.devportfoliotemplates.com/portfolio-templates/backend-developer
+as an backend ones
 
 
 cool animations on ReactBits

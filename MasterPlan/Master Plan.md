@@ -9,6 +9,9 @@ end-date: 2025-12-31
 # 🧠 Yahea’s 1‑Year Masterplan (2025)
 
 > Build elite backend + full‑stack skills, grow in cybersecurity, polish system‑level projects, and stay consistent with daily habits 
+> 
+
+in the time im going off university im gonna do those 
 
 | [[Programming Advices]] | [[Unity]] | [[German]] | [[Git&GitHub]] | [[JavaScript]] | [[UI-UX]] | [[CyberSecurity]] | [[Git From Scratch]] |
 | ----------------------- | --------- | ---------- | -------------- | -------------- | --------- | ----------------- | -------------------- |
